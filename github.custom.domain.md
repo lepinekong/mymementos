@@ -1,11 +1,10 @@
 
 # Github Custom Domain
 
-Generated: 2018-05-12 14:00:54
 
 ### ReAdABLE Source:
 
-[github.custom.domain.red](https://github.com/lepinekong/mymementos/blob/master/github.custom.domain.red)
+[http://mymementos.space/github.custom.domain.red](https://github.com/lepinekong/mymementos/blob/master/github.custom.domain.red)
 
 ### Step 1: Add custom domain to your Github Page
 
@@ -37,4 +36,4 @@ Generated: 2018-05-12 14:00:54
 
 ### Step 3: (Optional) migrate DNS to Cloudflare
 
-TODO:
+TODO
