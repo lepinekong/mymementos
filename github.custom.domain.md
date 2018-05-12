@@ -29,7 +29,7 @@
                     
 ![https://imgur.com/Prh0H0G.png](https://imgur.com/Prh0H0G.png)
                     
-- Change www target:
+- Change CNAME www target:
 
 ![https://imgur.com/xnkeyEE.png](https://imgur.com/xnkeyEE.png)
                     
