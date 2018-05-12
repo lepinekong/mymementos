@@ -1,72 +1,40 @@
-Red [
-    Title: "Github.Custom.Domain.red"
-    Categories: [Github]
-    Tags: [Github "Custom Domain"]
 
-    Dates: [
-        Created: 2018-05-12 11:57:11
-        Modified: [
-            2018-05-12 11:57:15 2018-05-12 13:30:59
-        ]
-    ]
-]
+# Github Custom Domain
 
-Tutorial: [
+Generated: 2018-05-12 14:00:54
 
-    Title: {Github Custom Domain}
+### ReAdABLE Source:
 
-    Step-1: [
+[github.custom.domain.red](https://github.com/lepinekong/mymementos/blob/master/github.custom.domain.red)
 
-        .title: {Step 1: Add custom domain to your Github Page}
-        .text: {- Click on Settings under your Github Pages:
-        }
-        .image: https://imgur.com/yglTzwS
+### Step 1: Add custom domain to your Github Page
 
-        .text: {- Add your custom domain:
-        }
-        .image: https://i.imgur.com/wCY2wVC.png
+- Click on Settings under your Github Pages:
 
-        .references: [
-            https://help.github.com/articles/adding-or-removing-a-custom-domain-for-your-github-pages-site/
-            https://help.github.com/articles/setting-up-an-apex-domain/
-        ]
-    ]
+![https://imgur.com/yglTzwS.png](https://imgur.com/yglTzwS.png)
+                    
+- Add your custom domain:
 
-    Step-2: [
+![https://i.imgur.com/wCY2wVC.png](https://i.imgur.com/wCY2wVC.png)
+                    
 
-        .title: {Step 2: Modify your DNS Record}
-        .text: {- Access your domain Console at your registrar and go to DNS Record, for example, for Namesilo click on Globe Icon:
-        }
-        .image: https://imgur.com/JMRAfM7
+### Step 2: Modify your DNS Record
 
-        .text: {- Add A records for Github:
-        }
-        .image: https://imgur.com/KlwKV3I
-        .caption: "Namesilo DNS Record"
-        .image: https://imgur.com/Prh0H0G
-        .caption: "Namecheap DNS Record"
+- Access your domain Console at your registrar and go to DNS Record, for example, for Namesilo click on Globe Icon:
 
-        .text: {- Change www target:
-        }
-        .image: https://imgur.com/xnkeyEE
+![https://imgur.com/JMRAfM7.png](https://imgur.com/JMRAfM7.png)
+                    
+- Add A records for Github:
 
-        .references: [
-            https://help.github.com/articles/setting-up-an-apex-domain/#configuring-an-alias-or-aname-record-with-your-dns-provider
-            https://www.namesilo.com/CustomDomain/Github
-            https://www.namecheap.com/support/knowledgebase/article.aspx/319/2237/how-can-i-set-up-an-a-address-record-for-my-domain
-            https://www.namecheap.com/support/knowledgebase/article.aspx/9646/2237/how-can-i-set-up-a-cname-record-for-my-domain
-        ]             
-    ]
+![https://imgur.com/KlwKV3I.png](https://imgur.com/KlwKV3I.png)
+                    
+![https://imgur.com/Prh0H0G.png](https://imgur.com/Prh0H0G.png)
+                    
+- Change www target:
 
-    Step-3: [
-        .title: {Step 3: (Optional) migrate DNS to Cloudflare}
-        .text: {TODO:}
+![https://imgur.com/xnkeyEE.png](https://imgur.com/xnkeyEE.png)
+                    
 
-        .references: [
-            https://www.jonathan-petitcolas.com/2017/01/13/using-https-with-custom-domain-name-on-github-pages.html
-        ]
-    ]
-]
+### Step 3: (Optional) migrate DNS to Cloudflare
 
-do read to-red-file "C:\rebol\.system.user\.data\.activities\MyProjects\ReAdable.Format\lib\ReAdABLE.Human.Format.lib.red"
-markdown-gen
+TODO:
