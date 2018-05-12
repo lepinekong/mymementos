@@ -2,7 +2,7 @@
 # Github Custom Domain
 
 
-### ReAdABLE Source
+### ReAdABLE Source:
 
 [github.custom.domain.red](https://github.com/lepinekong/mymementos/blob/master/github.custom.domain.red)
 
