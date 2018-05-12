@@ -49,7 +49,11 @@ Tutorial: [
         }
         .image: https://imgur.com/JMRAfM7
 
-        .text: {- Add A records for Github:
+        .text: {- Add A records for Github using these IP addresses:
+            &nbsp; 185.199.108.153
+            &nbsp; 185.199.109.153
+            &nbsp; 185.199.110.153
+            &nbsp; 185.199.111.153
         }
         .image: https://imgur.com/KlwKV3I
         .caption: "Namesilo DNS Record"
