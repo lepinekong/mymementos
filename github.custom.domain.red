@@ -1,5 +1,7 @@
 Red [
-    Title: "Github.Custom.Domain.red"
+    Title: "Github Custom Domain"
+    File: github.custom.domain.red
+    Output-files: [github.custom.domain.md]
     Categories: [Github]
     Tags: [Github "Custom Domain"]
 
