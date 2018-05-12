@@ -21,7 +21,7 @@
 
 - Access your domain Console at your registrar and go to DNS Record, for example, for Namesilo click on Globe Icon:
 
-![https://imgur.com/JMRAfM7.png](https://imgur.com/JMRAfM7.png =250x250)
+![https://imgur.com/JMRAfM7.png |512x397, 20%](https://imgur.com/JMRAfM7.png)
                     
 - Add A records for Github:
 
