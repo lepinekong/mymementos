@@ -2,6 +2,10 @@
 # Github Custom Domain
 
 
+### ReAdABLE Source
+
+[github.custom.domain.red](https://github.com/lepinekong/mymementos/blob/master/github.custom.domain.red)
+
 ### Step 1: Add custom domain to your Github Page
 
 - Click on Settings under your Github Pages:
@@ -19,7 +23,7 @@
 
 ![https://imgur.com/JMRAfM7.png](https://imgur.com/JMRAfM7.png)
                     
-- Adding A records for Github:
+- Add A records for Github:
 
 ![https://imgur.com/KlwKV3I.png](https://imgur.com/KlwKV3I.png)
                     
