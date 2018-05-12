@@ -53,7 +53,7 @@ Tutorial: [
         .image: https://imgur.com/Prh0H0G
         .caption: "Namecheap DNS Record"
 
-        .text: {- Change www target:
+        .text: {- Change CNAME www target:
         }
         .image: https://imgur.com/xnkeyEE
 
