@@ -24,9 +24,13 @@
 ![https://imgur.com/JMRAfM7.png](https://imgur.com/JMRAfM7.png)
                     
 - Add A records for Github using these IP addresses:
+
 &nbsp; 185.199.108.153
+
 &nbsp; 185.199.109.153
+
 &nbsp; 185.199.110.153
+
 &nbsp; 185.199.111.153
 
 ![https://imgur.com/KlwKV3I.png](https://imgur.com/KlwKV3I.png)
