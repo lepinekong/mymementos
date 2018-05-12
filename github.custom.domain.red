@@ -18,7 +18,8 @@ Tutorial: [
 
     Source: [
         .title: {ReAdABLE Source:}
-        .text: {[github.custom.domain.red](https://github.com/lepinekong/mymementos/blob/master/github.custom.domain.red)}
+        .text: {[http://mymementos.space/github.custom.domain.red](https://github.com/lepinekong/mymementos/blob/master/github.custom.domain.red)}
+        .Published-Url: http://mymementos.space/github.custom.domain 
     ]
 
     Step-1: [
@@ -66,7 +67,7 @@ Tutorial: [
 
     Step-3: [
         .title: {Step 3: (Optional) migrate DNS to Cloudflare}
-        .text: {TODO:}
+        .text: {TODO}
 
         .references: [
             https://www.jonathan-petitcolas.com/2017/01/13/using-https-with-custom-domain-name-on-github-pages.html
