@@ -22,7 +22,7 @@ Memento: [
 
 
     Step-1: [
-        .title: {Create a local folder to be published to Github}
+        .title: {Step 1: Create a local folder to be published to Github}
         .text: {Create a folder where you want to store all the folders and files to be published to Github for example .github:
         }
         .image: https://i.imgur.com/jqYDdEO.png
@@ -30,7 +30,7 @@ Memento: [
     ]    
 
     Step-2: [
-        .title: {Clone your Github Repository}
+        .title: {Step 2: Clone your Github Repository}
         .text: {- copy the github url under the green button below:
         }
         .image: https://i.imgur.com/zNQ3nzy.png
@@ -44,17 +44,17 @@ Memento: [
     ]
 
     Step-3: [
-        .title: {Commit your changes to local repository}
+        .title: {Step 3: Commit your changes to local repository}
         .text: {Commit your changes to local repository as usual with your preferred tool (Git command line, VSCode)}
     ]
 
     Step-4: [
-        .title: {Push your changes to Github repository}
+        .title: {Step 4: Push your changes to Github repository}
         .text: {Push your changes to remote repository as usual with your preferred tool (Git command line, VSCode)}
     ]
 
     Step-5: [
-        .title: {(Optional) Store your credentials}
+        .title: {Step 5: (Optional) Store your credentials}
         .text: {to avoid entering username and password each time you can store them by typing: }
         .code: {
             git config --global credential.helper wincred
