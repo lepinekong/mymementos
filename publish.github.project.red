@@ -86,7 +86,7 @@ markdown-gen
 ]
 
 .copy-file %publish.github.project.red %../../.github/publish.github.project.red
-.copy-file %publish.github.project.red %../../.github/publish.github.project.md
+.copy-file %publish.github.project.md %../../.github/publish.github.project.md
 
 
 
