@@ -1,6 +1,6 @@
 Red [
     Title: "publish.github.project.red"
-    Authors: [{Lépine Kong}]
+    Authors: ["Lépine Kong"]
 
     References: [
         https://medium.freecodecamp.org/hosting-custom-domain-on-github-pages-8c598248d2bc
