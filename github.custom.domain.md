@@ -1,5 +1,5 @@
 
-# Github Custom Domain
+# How to Setup your Github Custom Domain
 
 
 ### ReAdABLE Source:

@@ -17,7 +17,7 @@ Red [
 
 Tutorial: [
 
-    Title: {Github Custom Domain}
+    Title: {How to Setup your Github Custom Domain}
 
     Source: [
         .title: {ReAdABLE Source:}
