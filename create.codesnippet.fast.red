@@ -1,6 +1,6 @@
 Red [
     Title: "Create.CodeSnippet.red"
-    Build: 1.0.0.3
+    Build: 1.0.0.4
 ]
 
 Memento: [
@@ -66,5 +66,6 @@ Memento: [
 do read http://readablehumanformat.com/lib.red
 markdown-gen
 
-.copy-file %create.codesnippet.fast.red
-.copy-file %create.codesnippet.fast.md
+; comment these 2 lines if needed
+.copy-file %create.codesnippet.fast.red ; copy file to first encountered .github directory upstream
+.copy-file %create.codesnippet.fast.md ; copy file to first encountered .github directory upstream
