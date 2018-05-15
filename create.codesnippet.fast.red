@@ -8,7 +8,7 @@ Memento: [
     Title: {Create Code Snippet fast for Visual Studio Code}
 
     Source: [
-        .title: {ReAdABLE Source ([what is ReAdABLE Human Format?](http://readablehumanformat.com/))}
+        .title: {ReAdABLE Source [(what is ReAdABLE Human Format?)](http://readablehumanformat.com/)}
         .text: {[http://mymementos.space/create.codesnippet.fast.red](https://github.com/lepinekong/mymementos/blob/master/create.codesnippet.fast.red)}
         .Published-Url: http://mymementos.space/create.codesnippet.fast 
     ]   
