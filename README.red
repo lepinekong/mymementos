@@ -14,6 +14,15 @@ Summary: [
             - [Publish your Project on Github](http://mymementos.space/publish.github.project)
         }
     ]
+
+    VSCode: [
+        .title: {Visual Studio Code}
+
+        .text: {
+            - [How to Create Code Snippet fast for Visual Studio Code](http://mymementos.space/create.codesnippet.fast)
+        }
+    ]
+
 ]
 
 do http://readablehumanformat.com/lib.red
