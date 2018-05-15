@@ -4,7 +4,7 @@ Red [
 
 Summary: [
 
-    Title: {Summary of MyMementos.Space}
+    Title: {Index of MyMementos.Space}
 
     Github: [
         .title: {Github Mementos}
@@ -25,5 +25,5 @@ Summary: [
 
 ]
 
-do http://readablehumanformat.com/lib.red
+do read http://readablehumanformat.com/lib.red
 markdown-gen
