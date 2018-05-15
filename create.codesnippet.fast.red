@@ -7,6 +7,12 @@ Memento: [
 
     Title: {Create Code Snippet fast for Visual Studio Code}
 
+    Source: [
+        .title: {ReAdABLE Source:}
+        .text: {[http://mymementos.space/create.codesnippet.fast.red](https://github.com/lepinekong/mymementos/blob/master/create.codesnippet.fast.red)}
+        .Published-Url: http://mymementos.space/create.codesnippet.fast 
+    ]   
+
     Step-1: [
         .title: {Step 1: Install **Easy Snippet** Extension}
         .text: {

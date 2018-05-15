@@ -10,8 +10,8 @@ Summary: [
         .title: {Github Mementos}
 
         .text: {
-            - [How to Setup your Github Custom Domain](http://mymementos.space/github.custom.domain)
-            - [Publish your Project on Github](http://mymementos.space/publish.github.project)
+            - [How to Setup your Github Custom Domain](./github.custom.domain)
+            - [Publish your Project on Github](./publish.github.project)
         }
     ]
 
@@ -19,7 +19,7 @@ Summary: [
         .title: {Visual Studio Code}
 
         .text: {
-            - [How to Create Code Snippet fast for Visual Studio Code](http://mymementos.space/create.codesnippet.fast)
+            - [How to Create Code Snippet fast for Visual Studio Code](./create.codesnippet.fast)
         }
     ]
 
