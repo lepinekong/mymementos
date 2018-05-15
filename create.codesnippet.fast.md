@@ -2,7 +2,7 @@
 # Create Code Snippet fast for Visual Studio Code
 
 
-### ReAdABLE Source:
+### ReAdABLE Source
 
 [http://mymementos.space/create.codesnippet.fast.red](https://github.com/lepinekong/mymementos/blob/master/create.codesnippet.fast.red)
 

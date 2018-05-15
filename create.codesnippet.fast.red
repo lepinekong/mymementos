@@ -1,6 +1,6 @@
 Red [
     Title: "Create.CodeSnippet.red"
-    Build: 1.0.0.4
+    Build: 1.0.0.5
 ]
 
 Memento: [
@@ -8,7 +8,7 @@ Memento: [
     Title: {Create Code Snippet fast for Visual Studio Code}
 
     Source: [
-        .title: {ReAdABLE Source:}
+        .title: {ReAdABLE Source}
         .text: {[http://mymementos.space/create.codesnippet.fast.red](https://github.com/lepinekong/mymementos/blob/master/create.codesnippet.fast.red)}
         .Published-Url: http://mymementos.space/create.codesnippet.fast 
     ]   
