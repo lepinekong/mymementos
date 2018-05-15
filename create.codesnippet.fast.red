@@ -1,5 +1,6 @@
 Red [
     Title: "Create.CodeSnippet.red"
+    Build: 1.0.0.1
 ]
 
 Memento: [
@@ -16,24 +17,24 @@ Memento: [
 
     Step-2: [
         .title: {Step 2: Convert selected code to snippet}
-        .text: {Write your code template and select it}
-        .image: https://i.imgur.com/re3PJcv.png
+        .text: {Write your code template and select it (don't bother to create placeholder variables yet, it won't take it into account very well.)}
+        .image: https://i.imgur.com/ukJ4MEp.png
         .text: {Activate VSCode command palette (F1) and type "Make Snippet"}
         .image: https://i.imgur.com/PHTkpq0.png
+        .text: {Type a name for your code snippet for example "MyMemento":}
+        .image: https://i.imgur.com/egKApmL.png
     ]
 
     Step-3: [
         .title: {Step 3: Paste snippet into VSCode User Snippets file}
         .text: {Select only the code starting with second bracket as shown below:}
-        .image: blob:https://imgur.com/62d983f5-bc5a-4169-949d-3917896b1d64
+        .image: https://i.imgur.com/8YIu0Yv.png
         .text: {Select VSCode menu File -> Preferences -> User Snippets}
         .image: https://i.imgur.com/QAIukdZ.png
         .text: {Select the code language (for example "red")}
         .image: https://i.imgur.com/7axgFZ4.png
         .text: {in .json language file (red.json in our example), type "," after any other existing snippet or none if there isn't any, then paste yours}
-        .image: https://i.imgur.com/U0buFXI.png
-        .text: {Don't forget to give your snippet prefix a name and a description for example "MyMemento"}
-        .image: https://i.imgur.com/SahbtLs.png 
+        .image: https://i.imgur.com/b2C95qP.png
     ]
 
     Step-4: [
