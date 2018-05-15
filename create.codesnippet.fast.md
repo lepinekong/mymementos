@@ -2,7 +2,7 @@
 # Create Code Snippet fast for Visual Studio Code
 
 
-### ReAdABLE Source ([what is ReAdABLE Human Format?](http://readablehumanformat.com/)
+### ReAdABLE Source ([what is ReAdABLE Human Format?](http://readablehumanformat.com/))
 
 [http://mymementos.space/create.codesnippet.fast.red](https://github.com/lepinekong/mymementos/blob/master/create.codesnippet.fast.red)
 
