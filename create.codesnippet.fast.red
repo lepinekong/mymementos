@@ -1,6 +1,6 @@
 Red [
     Title: "Create.CodeSnippet.red"
-    Build: 1.0.0.2
+    Build: 1.0.0.3
 ]
 
 Memento: [
