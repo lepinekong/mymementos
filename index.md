@@ -2,7 +2,7 @@
 # Index of MyMementos.Space
 
 
-### Github Mementos
+### Github
 
 
 - [How to Setup your Github Custom Domain](./github.custom.domain)

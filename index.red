@@ -1,5 +1,5 @@
 Red [
-    Title: "README.red"
+    Title: "index.red"
 ]
 
 Summary: [
@@ -7,7 +7,7 @@ Summary: [
     Title: {Index of MyMementos.Space}
 
     Github: [
-        .title: {Github Mementos}
+        .title: {Github}
 
         .text: {
             - [How to Setup your Github Custom Domain](./github.custom.domain)
