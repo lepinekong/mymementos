@@ -20,7 +20,7 @@ Tutorial: [
     Title: {How to Setup your Github Custom Domain}
 
     Source: [
-        .title: {ReAdABLE Source:}
+        .title: {ReAdABLE Source [(what is ReAdABLE Human Format?)](http://readablehumanformat.com/)}
         .text: {[http://mymementos.space/github.custom.domain.red](https://github.com/lepinekong/mymementos/blob/master/github.custom.domain.red)}
         .Published-Url: http://mymementos.space/github.custom.domain 
     ]
@@ -89,3 +89,7 @@ Tutorial: [
 
 do read http://readablehumanformat.com/lib.red
 markdown-gen
+
+; comment these 2 lines if needed
+.copy-file %github.custom.domain.red ; copy file to first encountered .github directory upstream
+.copy-file %github.custom.domain.md ; copy file to first encountered .github directory upstream
