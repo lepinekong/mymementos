@@ -13,7 +13,7 @@ Create alias extensions for a programming language. For example, create .read ex
 ![https://i.imgur.com/oHOUXgD.png](https://i.imgur.com/oHOUXgD.png)
                     
 
-### Go to Settings
+### Settings
 
 Open any code file using the targeted language, for example Red Language.
 Activate Command (F1 key) and type then select **"Change Language Mode"**:
@@ -38,6 +38,6 @@ Customize the settings for example with:
 ![https://i.imgur.com/AmDw0MN.png](https://i.imgur.com/AmDw0MN.png)
                     
 
-### References:
+### References
 
 [File-to-language Association in Visual Studio Code | scottaddie.com](https://scottaddie.com/2016/04/10/file-to-language-associations-in-visual-studio-code/)

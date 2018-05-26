@@ -25,7 +25,7 @@ Tutorial: [
     ]
 
     Goto-Settings: [
-        .title: {Go to Settings}
+        .title: {Settings}
 
         .text: {Open any code file using the targeted language, for example Red Language.}
 
@@ -46,7 +46,7 @@ Tutorial: [
     ]
 
     References: [
-        .title: {References:}
+        .title: {References}
         .text: {[File-to-language Association in Visual Studio Code | scottaddie.com](https://scottaddie.com/2016/04/10/file-to-language-associations-in-visual-studio-code/)}
     ]
 ]
