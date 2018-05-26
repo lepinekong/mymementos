@@ -4,7 +4,7 @@
 
 ### ReAdABLE Source:
 
-[http://mymementos.space/vscode.file.extensions.red](https://github.com/lepinekong/mymementos/blob/master/vscode.file.extensions.red)
+[http://mymementos.space/vscode/file-extension-alias.red](https://github.com/lepinekong/mymementos/blob/master/vscode/file-extension-alias.red)
 [Learn about ReAdABLE Human Format](http://readablehumanformat.com)
 
 ### Purpose

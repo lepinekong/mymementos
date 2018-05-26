@@ -11,9 +11,9 @@ Tutorial: [
 
     Source: [
         .title: {ReAdABLE Source:}
-        .text: {[http://mymementos.space/vscode.file.extensions.red](https://github.com/lepinekong/mymementos/blob/master/vscode.file.extensions.red)}
+        .text: {[http://mymementos.space/vscode/file-extension-alias.red](https://github.com/lepinekong/mymementos/blob/master/vscode/file-extension-alias.red)}
         .text: {[Learn about ReAdABLE Human Format](http://readablehumanformat.com)}
-        .Published-Url: http://mymementos.space/vscode.file.extensions 
+        .Published-Url: http://mymementos.space/vscode/file-extension-alias 
     ]    
 
     Purpose: [
