@@ -7,8 +7,7 @@ Red [
 
 Tutorial: [
 
-    Title: {How to create alias for a file extension 
-    (.read ~ .red)}
+    Title: {How to create .read alias for .red or any other file language extension}
 
 
     Source: [
