@@ -1,5 +1,5 @@
 Red [
-    Title: "Create.CodeSnippet.red"
+    Title: "codesnippet-fast.red"
     Build: 1.0.0.5
 ]
 
