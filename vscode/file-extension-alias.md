@@ -1,5 +1,6 @@
 
-# How to create alias for a file extension (.read ~ .red)
+# How to create alias for a file extension 
+(.read ~ .red)
 
 
 ### ReAdABLE Source [(What is the ReAdABLE Human Format?)](http://readablehumanformat.com)
