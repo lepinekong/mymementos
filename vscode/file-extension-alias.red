@@ -7,7 +7,7 @@ Red [
 
 Tutorial: [
 
-    Title: {How to add file extensions to language}
+    Title: {How to create alias for a language file extension}
 
     Source: [
         .title: {ReAdABLE Source:}

@@ -1,5 +1,5 @@
 
-# How to add file extensions to language
+# How to create alias for a language file extension
 
 
 ### ReAdABLE Source:
