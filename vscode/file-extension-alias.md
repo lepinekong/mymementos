@@ -2,10 +2,10 @@
 # How to create alias for a language file extension
 
 
-### ReAdABLE Source:
+### ReAdABLE Source [(What is the ReAdABLE Human Format?)](http://readablehumanformat.com)
 
 [http://mymementos.space/vscode/file-extension-alias.red](https://github.com/lepinekong/mymementos/blob/master/vscode/file-extension-alias.red)
-[Learn about ReAdABLE Human Format](http://readablehumanformat.com)
+
 
 ### Purpose
 
