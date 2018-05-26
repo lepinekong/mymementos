@@ -7,15 +7,16 @@ Red [
 
 Tutorial: [
 
-    Title: {How to create alias for a language file extension}
+    Title: {How to create alias for a file extension (.read ~ .red)}
 
 
-Source: [
-    .title: {ReAdABLE Source [(What is the ReAdABLE Human Format?)](http://readablehumanformat.com)}
-    .text: {[http://mymementos.space/vscode/file-extension-alias.red](https://github.com/lepinekong/mymementos/blob/master/vscode/file-extension-alias.red)
-    }
-    .Published-Url: http://mymementos.space/vscode/file-extension-alias
-]
+    Source: [
+        .title: {ReAdABLE Source [(What is the ReAdABLE Human Format?)](http://readablehumanformat.com)}
+        .text: {[http://mymementos.space/vscode/file-extension-alias.red](https://github.com/lepinekong/mymementos/blob/master/vscode/file-extension-alias.red)
+        }
+        .Published-Url: http://mymementos.space/vscode/file-extension-alias
+    ]
+    
     Purpose: [
         .title: {Purpose}
         .text: {Create alias extensions for a programming language. For example, create .read extension for the [ReAdABLE Human Format](http://readablehumanformat.com) as alias for .red extension.}

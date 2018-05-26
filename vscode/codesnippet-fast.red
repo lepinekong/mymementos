@@ -8,10 +8,11 @@ Memento: [
     Title: {Create Code Snippet fast for Visual Studio Code}
 
     Source: [
-        .title: {ReAdABLE Source [(what is ReAdABLE Human Format?)](http://readablehumanformat.com/)}
-        .text: {[http://mymementos.space/create.codesnippet.fast.red](https://github.com/lepinekong/mymementos/blob/master/create.codesnippet.fast.red)}
-        .Published-Url: http://mymementos.space/create.codesnippet.fast 
-    ]   
+        .title: {ReAdABLE Source [(What is the ReAdABLE Human Format?)](http://readablehumanformat.com)}
+        .text: {[http://mymementos.space/vscode/codesnippet-fast.red](https://github.com/lepinekong/mymementos/blob/master/vscode/codesnippet-fast.red)
+        }
+        .Published-Url: http://mymementos.space/vscode/codesnippet-fast
+    ]
 
     Step-1: [
         .title: {Step 1: Install **Easy Snippet** Extension}
