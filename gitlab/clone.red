@@ -23,7 +23,15 @@ Memento: [
             git clone git@gitlab.com:mymementos/gitlab.git
         }
         .image: https://i.imgur.com/8LjxDao.png
+        .text: {Validate command to execute it:}
         .image: https://i.imgur.com/z20RGUc.png
+
+    ]
+
+    Step-3: [
+        .title: {Expected Result}
+        .text: {You should have cloned the repo within a sub-folder, you can move it to parent if needed.}
+        .image: https://i.imgur.com/Romju3Y.png
     ]
 
 ]

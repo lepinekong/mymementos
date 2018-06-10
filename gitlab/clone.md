@@ -26,5 +26,12 @@ In Cmd Dos, type git command:
 
 ![https://i.imgur.com/8LjxDao.png](https://i.imgur.com/8LjxDao.png)
                     
+Validate command to execute it:
 ![https://i.imgur.com/z20RGUc.png](https://i.imgur.com/z20RGUc.png)
+                    
+
+### Expected Result
+
+You should have cloned the repo within a sub-folder, you can move it to parent if needed.
+![https://i.imgur.com/Romju3Y.png](https://i.imgur.com/Romju3Y.png)
                     
