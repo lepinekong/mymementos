@@ -14,6 +14,14 @@ Summary: [
         ]
     ]
 
+    Gitlab: [
+        .title: {Gitlab}
+
+        .links: [
+            {Gitlab} %./gitlab/
+        ]
+    ]    
+
     VSCode: [
         .title: {Visual Studio Code}
         .links: [
