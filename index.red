@@ -7,6 +7,14 @@ Summary: [
     Title: {Index of MyMementos.Space}
 
     Github: [
+        .title: {Git}
+
+        .links: [
+            {Git} %./git/
+        ]
+    ]    
+
+    Github: [
         .title: {Github}
 
         .links: [
