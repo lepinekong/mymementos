@@ -26,3 +26,5 @@ In Cmd Dos, type git command:
 
 ![https://i.imgur.com/8LjxDao.png](https://i.imgur.com/8LjxDao.png)
                     
+![https://i.imgur.com/z20RGUc.png](https://i.imgur.com/z20RGUc.png)
+                    

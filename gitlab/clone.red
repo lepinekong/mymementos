@@ -23,6 +23,7 @@ Memento: [
             git clone git@gitlab.com:mymementos/gitlab.git
         }
         .image: https://i.imgur.com/8LjxDao.png
+        .image: https://i.imgur.com/z20RGUc.png
     ]
 
 ]
