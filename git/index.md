@@ -4,6 +4,8 @@
 
 ### Basics
 
+- [Commit](./commit)
+                        
 - [Memorize password](./memorize)
                         
 - [Archive](./archive)

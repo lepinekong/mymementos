@@ -16,6 +16,7 @@ Article: [
     caption: [
         .title: {Basics}
         .links: [
+            {Commit} %./commit
             {Memorize password} %./memorize
             {Archive} %./archive
         ]    
