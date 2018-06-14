@@ -14,7 +14,7 @@ Article: [
     Title: {Index of csharp}
 
     caption: [
-        .title: {Basics}
+        .title: {WPF}
         .links: [
             {Create a basic WPF application} %./wpf.app
             {Create a basic WPF User Control} %./wpf.user.control

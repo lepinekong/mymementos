@@ -2,7 +2,7 @@
 # Index of csharp
 
 
-### Basics
+### WPF
 
 - [Create a basic WPF application](./wpf.app)
                         
