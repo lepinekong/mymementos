@@ -37,3 +37,8 @@ Double-click on MainWindow.xaml if you want to change
 
 ![https://i.imgur.com/2sEjnMw.png](https://i.imgur.com/2sEjnMw.png)
                     
+
+### References
+
+- [Walkthrough: My first WPF desktop application - docs.microsoft.com](https://docs.microsoft.com/en-us/dotnet/framework/wpf/getting-started/walkthrough-my-first-wpf-desktop-application)
+                        
