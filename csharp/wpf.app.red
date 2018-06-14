@@ -31,7 +31,7 @@ Memento: [
 
     Step-4: [
         .title: {4 - Edit MainWindow.xaml}
-        .text: {You can change}
+        .text: {Double-click on MainWindow.xaml if you want to change}
         .quote: {Title="MainWindow" Height="350" Width="525"}
         .image: https://i.imgur.com/2sEjnMw.png
     ]

@@ -32,7 +32,7 @@ You'll see an empty window:
 
 ### 4 - Edit MainWindow.xaml
 
-You can change
+Double-click on MainWindow.xaml if you want to change
 >Title="MainWindow" Height="350" Width="525"
 
 ![https://i.imgur.com/2sEjnMw.png](https://i.imgur.com/2sEjnMw.png)
