@@ -18,9 +18,15 @@ Article: [
         .links: [
             {Create code snippet fast} %./codesnippet-fast
             {Create alias for a file extension} %./file-extension-alias
-
         ]    
     ]
+
+    Shortcuts: [
+        .title: {Shortcuts}
+        .links: [
+            {Multiple cursors editing} %./multiple-cursors
+        ]    
+    ]    
 
 ]
         

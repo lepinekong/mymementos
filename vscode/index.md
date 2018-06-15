@@ -8,3 +8,8 @@
                         
 - [Create alias for a file extension](./file-extension-alias)
                         
+
+### Shortcuts
+
+- [Multiple cursors editing](./multiple-cursors)
+                        
