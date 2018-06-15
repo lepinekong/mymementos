@@ -8,3 +8,5 @@
                         
 - [Create a basic WPF User Control](./wpf.user.control)
                         
+- [WPF Tab Control](./wpf.tab.control)
+                        

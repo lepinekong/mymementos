@@ -18,8 +18,8 @@ Memento: [
     ]
 
     Step-1: [
-        .title: {Create new component in same folder as MainWindow}
-        .text: {Right-Click Csharp project and select}
+        .title: {Case 1: User Control in same folder as MainWindow}
+        .text: {Create new component in same folder as MainWindow: Right-Click Csharp project and select}
         .quote: {Add -> New item...}
         .quote: {Visual C# -> User Control (WPF)}
         .text: {or directly:}
@@ -28,8 +28,8 @@ Memento: [
     ]
 
     Step-2: [
-        .title: {To insert that control}
-        .text: {With MainWindow.xaml grid, type:}
+        .title: {Use control}
+        .text: {To insert that control, with MainWindow.xaml grid, type:}
         .quote: {<local}
         .image: https://i.imgur.com/hWvKBoC.png
         .text: {then select:}
@@ -50,13 +50,14 @@ Memento: [
     ]
 
     Step-5: [
-        .title: {Create an other control with button 2 and button 3 in a sub-folder}
+        .title: {Case 2: User Control in Sub-Folder}
+        .text: {Create an other control with button 2 and button 3 in a sub-folder}
         .image: https://i.imgur.com/zreRxoM.png
         
     ]
 
     Step-6: [
-        .title: {Reference the User Control in sub-folder}
+        .title: {Use the User Control in sub-folder}
         .text: {add namespace:}
         .quote: {xmlns:folder1="clr-namespace:WpfApp.folder1"} 
         .text: {type "<" followed by the name of the sub-folder:}

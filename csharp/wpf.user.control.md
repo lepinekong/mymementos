@@ -11,9 +11,9 @@ You won't be sharing your control across applications.
 
 Create a new WPF Project
 
-### Create new component in same folder as MainWindow
+### Case 1: User Control in same folder as MainWindow
 
-Right-Click Csharp project and select
+Create new component in same folder as MainWindow: Right-Click Csharp project and select
 >Add -> New item...
 
 >Visual C# -> User Control (WPF)
@@ -24,9 +24,9 @@ or directly:
 ![https://i.imgur.com/LDSrbg6.png](https://i.imgur.com/LDSrbg6.png)
                     
 
-### To insert that control
+### Use control
 
-With MainWindow.xaml grid, type:
+To insert that control, with MainWindow.xaml grid, type:
 ><local
 
 ![https://i.imgur.com/hWvKBoC.png](https://i.imgur.com/hWvKBoC.png)
@@ -48,12 +48,13 @@ closing the tag you should get:
 ![https://i.imgur.com/G5vQDY0.png](https://i.imgur.com/G5vQDY0.png)
                     
 
-### Create an other control with button 2 and button 3 in a sub-folder
+### Case 2: User Control in Sub-Folder
 
+Create an other control with button 2 and button 3 in a sub-folder
 ![https://i.imgur.com/zreRxoM.png](https://i.imgur.com/zreRxoM.png)
                     
 
-### Reference the User Control in sub-folder
+### Use the User Control in sub-folder
 
 add namespace:
 >xmlns:folder1="clr-namespace:WpfApp.folder1"
