@@ -1,5 +1,5 @@
 
-# VSCode Memento: multiple cursors editing
+# VSCode multiple cursors editing
 
 
 ### Shift + Alt + Mouse Click or Ctrl + Alt + Arrow Keys

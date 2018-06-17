@@ -4,7 +4,7 @@ Red [
 
 Memento: [
 
-    Title: {VSCode Memento: multiple cursors editing}
+    Title: {VSCode multiple cursors editing}
 
     Shift-Alt-Mouse-Click: [
         .title: {Shift + Alt + Mouse Click or Ctrl + Alt + Arrow Keys}
