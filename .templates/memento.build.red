@@ -3,4 +3,4 @@ Red [
 ]
 
 do read http://redlang.red/templating
-render %memento.template.red
+render %res/memento.template.red

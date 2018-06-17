@@ -3,4 +3,4 @@ Red [
 ]
 
 do read http://redlang.red/templating
-render %index.template.red
+render %res/index.template.red
