@@ -46,3 +46,12 @@ Run by clicking on the icon
 
 ![https://i.imgur.com/otfVRlU.png](https://i.imgur.com/otfVRlU.png)
                     
+
+### Duplicate a stack
+
+Right click to duplicate a stack
+![https://i.imgur.com/notFeBL.png](https://i.imgur.com/notFeBL.png)
+                    
+Change to left arrow and -10
+![https://i.imgur.com/4T1SB3k.png](https://i.imgur.com/4T1SB3k.png)
+                    

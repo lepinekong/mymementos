@@ -44,6 +44,14 @@ Memento: [
         .image: https://i.imgur.com/otfVRlU.png   
     ]
 
+    Step-2: [
+        .title: {Duplicate a stack}
+        .text: {Right click to duplicate a stack}
+        .image: https://i.imgur.com/notFeBL.png
+        .text: {Change to left arrow and -10}
+        .image: https://i.imgur.com/4T1SB3k.png
+    ]
+
 ]
 
 do read http://readablehumanformat.com/lib.red
