@@ -6,6 +6,13 @@ Memento: [
 
     Title: {<%title%>}
 
+    Source: [
+        .title: {ReAdABLE Source [(What is the ReAdABLE Human Format?)](http://readablehumanformat.com)}
+        .text: {[http://mymementos.space/<%domain-folder%>/<%short-filename%>.red](https://github.com/lepinekong/mymementos/blob/master/<%domain-folder%>/<%short-filename%>.red)
+        }
+        .Published-Url: http://mymementos.space/<%domain-folder%>/<%short-filename%>
+    ]      
+
     Step-0: [
         .title: {Pre-Requisites}
         .text: {}

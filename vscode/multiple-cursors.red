@@ -6,6 +6,13 @@ Memento: [
 
     Title: {VSCode multiple cursors editing}
 
+    Source: [
+        .title: {ReAdABLE Source [(What is the ReAdABLE Human Format?)](http://readablehumanformat.com)}
+        .text: {[http://mymementos.space/vscode/multiple-cursors.red](https://github.com/lepinekong/mymementos/blob/master/vscode/multiple-cursors.red)
+        }
+        .Published-Url: http://mymementos.space/vscode/multiple-cursors
+    ]      
+
     Shift-Alt-Mouse-Click: [
         .title: {Shift + Alt + Mouse Click or Ctrl + Alt + Arrow Keys}
         .text: {To have multiple cursors on several rows you can use}
