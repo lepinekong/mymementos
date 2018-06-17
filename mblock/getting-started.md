@@ -55,3 +55,21 @@ Right click to duplicate a stack
 Change to left arrow and -10
 ![https://i.imgur.com/4T1SB3k.png](https://i.imgur.com/4T1SB3k.png)
                     
+
+### If then block
+
+![https://i.imgur.com/eYAD5vS.png](https://i.imgur.com/eYAD5vS.png)
+                    
+Click on right arrow before clicking on green flag to run.
+
+### Forever block
+
+![https://i.imgur.com/Gz2Ybcv.png](https://i.imgur.com/Gz2Ybcv.png)
+                    
+Now you can click on right arrow key anytime.
+
+### Duplicate stack inside forever block
+
+![https://i.imgur.com/mau5jlJ.png](https://i.imgur.com/mau5jlJ.png)
+                    
+Now you can click on both lef and right arrow keys.

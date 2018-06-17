@@ -52,6 +52,24 @@ Memento: [
         .image: https://i.imgur.com/4T1SB3k.png
     ]
 
+    Step-3: [
+        .title: {If then block}
+        .image: https://i.imgur.com/eYAD5vS.png
+        .text: {Click on right arrow before clicking on green flag to run.}
+    ]
+
+    Step-4: [
+        .title: {Forever block}
+        .image: https://i.imgur.com/Gz2Ybcv.png
+        .text: {Now you can click on right arrow key anytime.}
+    ]    
+
+    Step-5: [
+        .title: {Duplicate stack inside forever block}
+        .image: https://i.imgur.com/mau5jlJ.png
+        .text: {Now you can click on both lef and right arrow keys.}
+    ]      
+
 ]
 
 do read http://readablehumanformat.com/lib.red
