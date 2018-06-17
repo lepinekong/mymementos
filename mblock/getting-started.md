@@ -1,0 +1,48 @@
+
+# Getting Started with mblock
+
+
+### ReAdABLE Source [(What is the ReAdABLE Human Format?)](http://readablehumanformat.com)
+
+[http://mymementos.space/mblock/getting-started.red.red](https://github.com/lepinekong/mymementos/blob/master/mblock/getting-started.red.red)
+
+
+### Pre-Requisites
+
+Install mblock from this page:
+- [http://www.mblock.cc/software/mblock/mblock5/](http://www.mblock.cc/software/mblock/mblock5/)
+                        
+
+### Getting started
+
+Once mBlock is launched:
+![https://i.imgur.com/EyRrb6O.png](https://i.imgur.com/EyRrb6O.png)
+                    
+Click on Tab
+>Sprites
+
+![https://i.imgur.com/JgcoAsD.png](https://i.imgur.com/JgcoAsD.png)
+                    
+From Tab
+>Events
+
+![https://i.imgur.com/oAvopVO.png](https://i.imgur.com/oAvopVO.png)
+                    
+Drag and drop
+>When clicked
+
+![https://i.imgur.com/mj5QPXn.png](https://i.imgur.com/mj5QPXn.png)
+                    
+From tab
+>Motion
+
+drag and drop
+>Move 10 steps
+
+![https://i.imgur.com/vdqHTaA.png](https://i.imgur.com/vdqHTaA.png)
+                    
+Run by clicking on the icon
+>Flag
+
+![https://i.imgur.com/otfVRlU.png](https://i.imgur.com/otfVRlU.png)
+                    
