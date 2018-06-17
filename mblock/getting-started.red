@@ -68,7 +68,21 @@ Memento: [
         .title: {Duplicate stack inside forever block}
         .image: https://i.imgur.com/mau5jlJ.png
         .text: {Now you can click on both lef and right arrow keys.}
-    ]      
+    ]  
+
+    Step-6: [
+        .title: {Save}       
+        .image: https://i.imgur.com/BYXMvfE.png
+
+    ]  
+
+    Step-7: [
+        .title: {Point to direction}       
+        .image: https://i.imgur.com/e7VyP09.png
+        .text: {When testing something wrong}
+        .image: https://i.imgur.com/jSdK4Bv.png
+
+    ]             
 
 ]
 

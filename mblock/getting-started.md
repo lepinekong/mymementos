@@ -73,3 +73,16 @@ Now you can click on right arrow key anytime.
 ![https://i.imgur.com/mau5jlJ.png](https://i.imgur.com/mau5jlJ.png)
                     
 Now you can click on both lef and right arrow keys.
+
+### Save
+
+![https://i.imgur.com/BYXMvfE.png](https://i.imgur.com/BYXMvfE.png)
+                    
+
+### Point to direction
+
+![https://i.imgur.com/e7VyP09.png](https://i.imgur.com/e7VyP09.png)
+                    
+When testing something wrong
+![https://i.imgur.com/jSdK4Bv.png](https://i.imgur.com/jSdK4Bv.png)
+                    
