@@ -13,6 +13,15 @@ Memento: [
         .Published-Url: http://mymementos.space/bootstrap/getting-started
     ]         
 
+    Intro: [
+        .title: {Introduction}
+        .text: {To get started with Bootstrap we're going to generate this html page:}
+        .image: https://i.imgur.com/ZrY5gMY.png
+        .text: {or click on live demo:}
+        .links: [
+            http://mymementos.space/bootstrap/src/getting-started/index.html
+        ]        
+    ]
     Step-1: [
         .title: {Create a bootstrap page skeleton}
         .text: {You can get the skeleton by typing in red console:}
@@ -20,10 +29,7 @@ Memento: [
 file: %src/getting-started/index.html
 create-bootstrap-page/to-clipboard/to-file file
         }
-        .text: {Look into src/getting-started/index.html}
-        .links: [
-            http://mymementos.space/bootstrap/src/getting-started/index.html
-        ]
+        .text: {Look into your src/getting-started/ folder for index.html}
         .image: https://i.imgur.com/sUf5piQ.png
         .code/html: {
 <!doctype html>

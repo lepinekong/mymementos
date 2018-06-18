@@ -7,6 +7,15 @@
 [http://mymementos.space/bootstrap/getting-started.red](https://github.com/lepinekong/mymementos/blob/master/bootstrap/getting-started.red)
 
 
+### Introduction
+
+To get started with Bootstrap we're going to generate this html page:
+![https://i.imgur.com/ZrY5gMY.png](https://i.imgur.com/ZrY5gMY.png)
+                    
+or click on live demo:
+- [http://mymementos.space/bootstrap/src/getting-started/index.html](http://mymementos.space/bootstrap/src/getting-started/index.html)
+                        
+
 ### Create a bootstrap page skeleton
 
 You can get the skeleton by typing in red console:
@@ -15,9 +24,7 @@ file: %src/getting-started/index.html
 create-bootstrap-page/to-clipboard/to-file file
 
 
-Look into src/getting-started/index.html
-- [http://mymementos.space/bootstrap/src/getting-started/index.html](http://mymementos.space/bootstrap/src/getting-started/index.html)
-                        
+Look into your src/getting-started/ folder for index.html
 ![https://i.imgur.com/sUf5piQ.png](https://i.imgur.com/sUf5piQ.png)
                     
 
