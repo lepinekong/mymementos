@@ -1,5 +1,5 @@
 
-# Bootstrap: Getting started
+# Getting started with Redlang Bootstrap
 
 
 ### ReAdABLE Source [(What is the ReAdABLE Human Format?)](http://readablehumanformat.com)

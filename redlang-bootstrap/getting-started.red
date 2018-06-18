@@ -4,7 +4,7 @@ Red [
 
 Memento: [
 
-    Title: {Bootstrap: Getting started}
+    Title: {Getting started with Redlang Bootstrap}
 
     Source: [
         .title: {ReAdABLE Source [(What is the ReAdABLE Human Format?)](http://readablehumanformat.com)}
