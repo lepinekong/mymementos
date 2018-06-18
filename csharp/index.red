@@ -2,23 +2,22 @@ Red [
     Title: "csharp"
 ]
 
-Source: [
-    .title: {ReAdABLE Source [(What is the ReAdABLE Human Format?)](http://readablehumanformat.com)}
-    .text: {[http://mymementos.space/csharp/index.red](https://csharphub.com/lepinekong/mymementos/blob/master/csharp/index.red)
-    }
-    .Published-Url: http://mymementos.space/csharp/index
-]
 
 Article: [
+    
+    Source: [
+        .title: {ReAdABLE Source [(What is the ReAdABLE Human Format?)](http://readablehumanformat.com)}
+        .text: {[http://mymementos.space/csharp/index.red](https://csharphub.com/lepinekong/mymementos/blob/master/csharp/index.red)
+        }
+        .Published-Url: http://mymementos.space/csharp/index
+    ]
 
-    Title: {Index of csharp}
+    Title: {Index of csharp}    
 
     caption: [
-        .title: {WPF}
+        .title: {Categories}
         .links: [
-            {Create a basic WPF application} %./wpf.app
-            {Create a basic WPF User Control} %./wpf.user.control
-            {WPF Tab Control} %./wpf.tab.control
+            {WPF} %./wpf
         ]    
     ]
 
