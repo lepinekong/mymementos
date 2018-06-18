@@ -69,5 +69,10 @@ do read http://redlang.red/bootstrap
 file: %src/getting-started/index.html
 create-bootstrap-page/to-clipboard/to-file file
 bootstrap-title/to-clipboard/to-file "Getting started with Bootstrap" file
-bootstrap-navbar/to-clipboard/to-file/brand file "ReAdABLE"
+bootstrap-navbar/to-clipboard/to-file/brand/menu file "ReAdABLE" [
+    ["Main" "#"]
+    ["Basics" "#"]
+    ["Syntax" "#"]
+    ["License" "#"]
+]
 
