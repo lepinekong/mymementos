@@ -114,12 +114,14 @@ src/getting-started/index.html should have change html title:
 
 Type this instruction:
 >bootstrap-navbar/to-clipboard/to-file/brand/menu file "Redlang.red" 
+<pre>
 [
 ["Home" "#"]
 ["About" "#"]
 ["Libraries" "#"]
 ["Contact" "#"]
 ]
+</pre>
 
 
 src/getting-started/index.html should have inserted this style in head section: 
