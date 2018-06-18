@@ -17,7 +17,8 @@ Memento: [
         .title: {Create a bootstrap page skeleton}
         .text: {You can get the skeleton by typing in red console:}
         .quote: {do read http://redlang.red/bootstrap
-create-bootstrap-page/to-clipboard/to-file %src/getting-started/index.html
+file: %src/getting-started/index.html
+create-bootstrap-page/to-clipboard/to-file file
         }
         .text: {Look into src/getting-started/index.html}
         .links: [
@@ -53,6 +54,9 @@ create-bootstrap-page/to-clipboard/to-file %src/getting-started/index.html
     </body>
 </html>                
         }
+        .text: {to change the title, execute in red console:}
+        .quote: {bootstrap-title/to-clipboard/to-file "Getting started with Bootstrap" file
+        }
     ]
 
 
@@ -60,4 +64,10 @@ create-bootstrap-page/to-clipboard/to-file %src/getting-started/index.html
 
 do read http://readablehumanformat.com/lib.red
 markdown-gen
+
+do read http://redlang.red/bootstrap
+file: %src/getting-started/index.html
+create-bootstrap-page/to-clipboard/to-file file
+bootstrap-title/to-clipboard/to-file "Getting started with Bootstrap" file
+bootstrap-navbar/to-clipboard/to-file/brand file "ReAdABLE"
 
