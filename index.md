@@ -4,7 +4,7 @@
 
 ### Bootstrap
 
-- [Redlang Bootstrap](./redlang-bootstrap/)
+- [Redlang Bootstrap](./redlang/bootstrap/)
                         
 
 ### Csharp
