@@ -56,6 +56,6 @@ Look into src/getting-started/index.html
 
 
 to change the title, execute in red console:
->bootstrap-title/to-clipboard/to-file "Getting started with Bootstrap" file
+>bootstrap-title/title/to-clipboard/to-file "Getting started with Bootstrap" file
 
 

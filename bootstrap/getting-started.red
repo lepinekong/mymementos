@@ -55,7 +55,7 @@ create-bootstrap-page/to-clipboard/to-file file
 </html>                
         }
         .text: {to change the title, execute in red console:}
-        .quote: {bootstrap-title/to-clipboard/to-file "Getting started with Bootstrap" file
+        .quote: {bootstrap-title/title/to-clipboard/to-file "Getting started with Bootstrap" file
         }
     ]
 
@@ -68,11 +68,10 @@ markdown-gen
 do read http://redlang.red/bootstrap
 file: %src/getting-started/index.html
 create-bootstrap-page/to-clipboard/to-file file
-bootstrap-background-color/to-clipboard/to-file "#FF0000" file
-
+bootstrap-title/title/to-clipboard/to-file "Getting started with Bootstrap" file
 quit
 
-bootstrap-title/to-clipboard/to-file "Getting started with Bootstrap" file
+bootstrap-background-color/color/to-clipboard/to-file "#FF0000" file
 bootstrap-navbar/to-clipboard/to-file/brand/menu file "ReAdABLE" [
     ["Main" "#"]
     ["Basics" "#"]
