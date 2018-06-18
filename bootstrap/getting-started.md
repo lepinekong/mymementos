@@ -11,7 +11,8 @@
 
 You can get the skeleton by typing in red console:
 >do read http://redlang.red/bootstrap
-create-bootstrap-page/to-clipboard/to-file %src/getting-started/index.html
+file: %src/getting-started/index.html
+create-bootstrap-page/to-clipboard/to-file file
 
 
 Look into src/getting-started/index.html
@@ -55,6 +56,6 @@ Look into src/getting-started/index.html
 
 
 to change the title, execute in red console:
->bootstrap-title "Getting started with Bootstrap"
+>bootstrap-title/to-clipboard/to-file "Getting started with Bootstrap" file
 
 
