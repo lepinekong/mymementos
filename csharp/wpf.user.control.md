@@ -2,6 +2,11 @@
 # wpf user control
 
 
+### ReAdABLE Source [(What is the ReAdABLE Human Format?)](http://readablehumanformat.com)
+
+[http://mymementos.space/csharp/wpf.user.control.red](https://github.com/lepinekong/mymementos/blob/master/csharp/wpf.user.control.red)
+
+
 ### Usage
 
 A User Control provides a way to collect and combine different built-in controls together and package them into re-usable XAML. 

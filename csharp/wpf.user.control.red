@@ -6,6 +6,14 @@ Memento: [
 
     Title: {wpf user control}
 
+    Source: [
+        .title: {ReAdABLE Source [(What is the ReAdABLE Human Format?)](http://readablehumanformat.com)}
+        .text: {[http://mymementos.space/csharp/wpf.user.control.red](https://github.com/lepinekong/mymementos/blob/master/csharp/wpf.user.control.red)
+        }
+        .Published-Url: http://mymementos.space/csharp/wpf.user.control
+    ]  
+
+
     Introduction: [
         .title: {Usage}
         .text: {A User Control provides a way to collect and combine different built-in controls together and package them into re-usable XAML. }
