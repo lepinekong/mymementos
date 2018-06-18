@@ -15,6 +15,8 @@ create-bootstrap-page/to-clipboard/to-file %src/getting-started/index.html
 
 
 Look into src/getting-started/index.html
+- [http://mymementos.space/bootstrap/src/getting-started/index.html](http://mymementos.space/bootstrap/src/getting-started/index.html)
+                        
 ![https://i.imgur.com/sUf5piQ.png](https://i.imgur.com/sUf5piQ.png)
                     
 

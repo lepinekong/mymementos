@@ -20,6 +20,9 @@ Memento: [
 create-bootstrap-page/to-clipboard/to-file %src/getting-started/index.html
         }
         .text: {Look into src/getting-started/index.html}
+        .links: [
+            http://mymementos.space/bootstrap/src/getting-started/index.html
+        ]
         .image: https://i.imgur.com/sUf5piQ.png
         .code/html: {
 <!doctype html>
