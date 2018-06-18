@@ -153,12 +153,15 @@ create-bootstrap-page/to-clipboard/to-file file
     Step-4: [
         .title: {Add a Bootstrap Header with Menu}
         .text: {Type this instruction:}
-        .quote: {bootstrap-navbar/to-clipboard/to-file/brand/menu file "Redlang.red" [
+        .quote: {bootstrap-navbar/to-clipboard/to-file/brand/menu file "Redlang.red" 
+<pre>
+[
     ["Home" "#"]
     ["About" "#"]
     ["Libraries" "#"]
     ["Contact" "#"]
 ]
+</pre>
         }
         .text: {src/getting-started/index.html should have inserted this style in head section: }
         .code/html: {

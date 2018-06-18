@@ -113,12 +113,15 @@ src/getting-started/index.html should have change html title:
 ### Add a Bootstrap Header with Menu
 
 Type this instruction:
->bootstrap-navbar/to-clipboard/to-file/brand/menu file "Redlang.red" [
+>bootstrap-navbar/to-clipboard/to-file/brand/menu file "Redlang.red" 
+<pre>
+[
 ["Home" "#"]
 ["About" "#"]
 ["Libraries" "#"]
 ["Contact" "#"]
 ]
+</pre>
 
 
 src/getting-started/index.html should have inserted this style in head section: 
