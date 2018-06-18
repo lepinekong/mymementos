@@ -2,6 +2,11 @@
 # Index of MyMementos.Space
 
 
+### Bootstrap
+
+- [Redlang Bootstrap](./redlang-bootstrap/)
+                        
+
 ### Csharp
 
 - [Csharp](./csharp/)
