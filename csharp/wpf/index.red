@@ -16,9 +16,10 @@ Article: [
     caption: [
         .title: {WPF}
         .links: [
-            {Create a basic WPF application} %./wpf.app
-            {Create a basic WPF User Control} %./wpf.user.control
-            {WPF Tab Control} %./wpf.tab.control
+            {Create a basic WPF application} %./app
+            {User Control} %./user-control
+            {Content Control} %./content-control
+            {Tab Control} %./tab-control
         ]    
     ]
 

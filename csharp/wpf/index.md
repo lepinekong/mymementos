@@ -4,9 +4,11 @@
 
 ### WPF
 
-- [Create a basic WPF application](./wpf.app)
+- [Create a basic WPF application](./app)
                         
-- [Create a basic WPF User Control](./wpf.user.control)
+- [User Control](./user-control)
                         
-- [WPF Tab Control](./wpf.tab.control)
+- [Content Control](./content-control)
+                        
+- [Tab Control](./tab-control)
                         
