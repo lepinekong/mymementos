@@ -54,9 +54,94 @@ create-bootstrap-page/to-clipboard/to-file file
     </body>
 </html>                
         }
-        .text: {to change the title, execute in red console:}
-        .quote: {bootstrap-title/title/to-clipboard/to-file "Getting started with Bootstrap" file
+
+    ]
+
+    Step-2: [
+        .title: {Change html title}
+        .text: {to change the title, type this instruction:}
+        .quote: {bootstrap-title/title/to-clipboard/to-file "Welcome to Redlang" file
         }
+        .text: {src/getting-started/index.html should have change html title: }
+        .image: https://i.imgur.com/dLNK21t.png
+        .code/html: {
+
+<!doctype html>
+
+<html lang="fr">
+    <head>
+    <meta charset="utf-8">
+
+    <title>Welcome to Redlang</title>
+    <meta name="description" content="The HTML5 Herald">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="author" content="me">
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+	<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" />
+	<link href='http://fonts.googleapis.com/css?family=Abel|Open+Sans:400,600' rel='stylesheet'>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+    <!--[if lt IE 9]>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script>
+    <![endif]-->
+    </head>
+
+    <body>
+        <script src=""></script>
+    </body>
+</html>    
+
+        }
+
+        Step-3: [
+            .title: {Change Background Color}
+        .text: {to change the Background Color, type this instruction:}
+        .quote: {bootstrap-background-color/color/to-clipboard/to-file "#FF0000" file
+        }
+        .text: {src/getting-started/index.html should have inserted this style in head section: }
+        .code/html: {
+    <style type="text/css">
+        body { background: #FF0000 !important}
+    </style>            
+        }
+        .image: https://i.imgur.com/9Y9EAc0.png
+        .code/html: {
+
+<!doctype html>
+
+<html lang="fr">
+    <head>
+    <meta charset="utf-8">
+
+    <title>Welcome to Redlang</title>
+    <meta name="description" content="The HTML5 Herald">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="author" content="me">
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+	<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" />
+	<link href='http://fonts.googleapis.com/css?family=Abel|Open+Sans:400,600' rel='stylesheet'>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+    <!--[if lt IE 9]>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script>
+    <![endif]-->
+    <style type="text/css">
+        body { background: #FF0000 !important}
+    </style>
+</head>
+
+    <body>
+        <script src=""></script>
+    </body>
+</html>
+        }
+        ]        
     ]
 
 
@@ -68,10 +153,10 @@ markdown-gen
 do read http://redlang.red/bootstrap
 file: %src/getting-started/index.html
 create-bootstrap-page/to-clipboard/to-file file
-bootstrap-title/title/to-clipboard/to-file "Getting started with Bootstrap" file
+bootstrap-title/title/to-clipboard/to-file "Welcome to Redlang" file
+bootstrap-background-color/color/to-clipboard/to-file "#FF0000" file
 quit
 
-bootstrap-background-color/color/to-clipboard/to-file "#FF0000" file
 bootstrap-navbar/to-clipboard/to-file/brand/menu file "ReAdABLE" [
     ["Main" "#"]
     ["Basics" "#"]
