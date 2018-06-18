@@ -10,7 +10,7 @@ Summary: [
         .title: {Bootstrap}
 
         .links: [
-            {Redlang Bootstrap} %./redlang-bootstrap/
+            {Redlang Bootstrap} %./redlang/bootstrap/
         ]
     ]   
 
