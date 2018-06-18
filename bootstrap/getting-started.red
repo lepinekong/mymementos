@@ -68,7 +68,10 @@ markdown-gen
 do read http://redlang.red/bootstrap
 file: %src/getting-started/index.html
 create-bootstrap-page/to-clipboard/to-file file
-bootstrap-background-color/to-clipboard "#A9FFCB"
+bootstrap-background-color/to-clipboard/to-file "#FF0000" file
+
+quit
+
 bootstrap-title/to-clipboard/to-file "Getting started with Bootstrap" file
 bootstrap-navbar/to-clipboard/to-file/brand/menu file "ReAdABLE" [
     ["Main" "#"]

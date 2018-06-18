@@ -18,7 +18,8 @@ Create a new WPF Project
 
 ### Case 1: User Control in same folder as MainWindow
 
-Create new component in same folder as MainWindow: Right-Click Csharp project and select
+Create new component in same folder as MainWindow, 
+Right-Click Csharp project and select:
 >Add -> New item...
 
 >Visual C# -> User Control (WPF)
@@ -31,7 +32,7 @@ or directly:
 
 ### Use control
 
-To insert that control, with MainWindow.xaml grid, type:
+To insert that control, within MainWindow.xaml grid, type:
 ><local
 
 ![https://i.imgur.com/hWvKBoC.png](https://i.imgur.com/hWvKBoC.png)

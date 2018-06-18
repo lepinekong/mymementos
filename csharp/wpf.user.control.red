@@ -27,7 +27,8 @@ Memento: [
 
     Step-1: [
         .title: {Case 1: User Control in same folder as MainWindow}
-        .text: {Create new component in same folder as MainWindow: Right-Click Csharp project and select}
+        .text: {Create new component in same folder as MainWindow, 
+        Right-Click Csharp project and select:}
         .quote: {Add -> New item...}
         .quote: {Visual C# -> User Control (WPF)}
         .text: {or directly:}
@@ -37,7 +38,7 @@ Memento: [
 
     Step-2: [
         .title: {Use control}
-        .text: {To insert that control, with MainWindow.xaml grid, type:}
+        .text: {To insert that control, within MainWindow.xaml grid, type:}
         .quote: {<local}
         .image: https://i.imgur.com/hWvKBoC.png
         .text: {then select:}
