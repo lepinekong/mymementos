@@ -26,7 +26,9 @@ Memento: [
         .title: {Create a bootstrap page skeleton}
         .text: {You can get the skeleton by typing in red console:}
         .quote: {do read http://redlang.red/bootstrap
+
 file: %src/getting-started/index.html
+
 create-bootstrap-page/to-clipboard/to-file file
         }
         .text: {Look into your src/getting-started/ folder for index.html}
