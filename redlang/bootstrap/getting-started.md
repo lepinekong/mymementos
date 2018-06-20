@@ -21,10 +21,9 @@ or click on live demo:
 You can get the skeleton by typing in red console:
 >do read http://redlang.red/bootstrap
 
-file: %src/getting-started/index.html
+>file: %src/getting-started/index.html
 
-create-bootstrap-page/to-clipboard/to-file file
-
+>create-bootstrap-page/to-clipboard/to-file file
 
 Look into your src/getting-started/ folder for index.html
 ![https://i.imgur.com/sUf5piQ.png](https://i.imgur.com/sUf5piQ.png)

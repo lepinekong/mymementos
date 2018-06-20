@@ -25,12 +25,9 @@ Memento: [
     Step-1: [
         .title: {Create a bootstrap page skeleton}
         .text: {You can get the skeleton by typing in red console:}
-        .quote: {do read http://redlang.red/bootstrap
-
-file: %src/getting-started/index.html
-
-create-bootstrap-page/to-clipboard/to-file file
-        }
+        .quote: {do read http://redlang.red/bootstrap}
+        .quote: {file: %src/getting-started/index.html}
+        .quote: {create-bootstrap-page/to-clipboard/to-file file}
         .text: {Look into your src/getting-started/ folder for index.html}
         .image: https://i.imgur.com/sUf5piQ.png
         .code/html: {
