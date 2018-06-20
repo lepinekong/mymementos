@@ -50,7 +50,7 @@
 
 ### Check DNS
 
-- [https://www.whatsmydns.net/#A/readablehuman.com](https://www.whatsmydns.net/#A/readablehuman.com)
+- [https://www.whatsmydns.net/#A/readablehumanformat.com](https://www.whatsmydns.net/#A/readablehumanformat.com)
                         
 ![https://i.imgur.com/pUfgO7j.png](https://i.imgur.com/pUfgO7j.png)
                     

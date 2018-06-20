@@ -79,7 +79,7 @@ Tutorial: [
 
     Step-3: [
         .title: {Check DNS}
-        .links: [ {https://www.whatsmydns.net/#A/readablehuman.com} https://www.whatsmydns.net/#A/readablehuman.com]
+        .links: [ {https://www.whatsmydns.net/#A/readablehumanformat.com} https://www.whatsmydns.net/#A/readablehumanformat.com]
         .image: https://i.imgur.com/pUfgO7j.png
         .references: [
             https://www.jonathan-petitcolas.com/2017/01/13/using-https-with-custom-domain-name-on-github-pages.html
