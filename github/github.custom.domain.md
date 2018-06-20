@@ -1,7 +1,6 @@
 
 # How to Setup your Github Custom Domain
 
-
 ### ReAdABLE Source [(what is ReAdABLE Human Format?)](http://readablehumanformat.com/)
 
 [http://mymementos.space/github.custom.domain.red](https://github.com/lepinekong/mymementos/blob/master/github.custom.domain.red)

@@ -16,9 +16,9 @@ Memento: [
     Step-0: [
         .title: {Pre-Requisites}
         .text: {
-            1 - You have created your Github repository.
+            - You have created your Github repository.
             
-            2 - You have installed Git on your local machine.
+            - You have installed Git on your local machine.
         }
     ]    
 
