@@ -79,8 +79,8 @@ Tutorial: [
 
     Step-3: [
         .title: {Check DNS}
-        .links: [ {https://www.whatsmydns.net/#A/myitbookmarks.space} https://www.whatsmydns.net/#A/myitbookmarks.space]
-
+        .links: [ {https://www.whatsmydns.net/#A/readablehuman.com} https://www.whatsmydns.net/#A/readablehuman.com]
+        .image: https://i.imgur.com/pUfgO7j.png
         .references: [
             https://www.jonathan-petitcolas.com/2017/01/13/using-https-with-custom-domain-name-on-github-pages.html
         ]

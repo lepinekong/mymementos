@@ -50,5 +50,7 @@
 
 ### Check DNS
 
-- [https://www.whatsmydns.net/#A/myitbookmarks.space](https://www.whatsmydns.net/#A/myitbookmarks.space)
+- [https://www.whatsmydns.net/#A/readablehuman.com](https://www.whatsmydns.net/#A/readablehuman.com)
                         
+![https://i.imgur.com/pUfgO7j.png](https://i.imgur.com/pUfgO7j.png)
+                    
