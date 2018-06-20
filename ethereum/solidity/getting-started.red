@@ -1,16 +1,16 @@
 Red [
-    Title: "<%title%>"
+    Title: "Getting started with Solidity"
 ]
 
 Memento: [
 
-    Title: {<%title%>}
+    Title: {Getting started with Solidity}
 
     Source: [
         .title: {ReAdABLE Source [(What is the ReAdABLE Human Format?)](http://readablehumanformat.com)}
-        .text: {[http://mymementos.space/<%full-domain-path%>/<%short-filename%>.red](https://github.com/lepinekong/mymementos/blob/master/<%full-domain-path%>/<%short-filename%>.red)
+        .text: {[http://mymementos.space/ethereum/solidity/getting-started.red.red](https://github.com/lepinekong/mymementos/blob/master/ethereum/solidity/getting-started.red.red)
         }
-        .Published-Url: http://mymementos.space/<%full-domain-path%>/<%short-filename%>
+        .Published-Url: http://mymementos.space/ethereum/solidity/getting-started.red
     ]      
 
     Step-0: [

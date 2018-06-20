@@ -1,16 +1,22 @@
 Red [
-    Title: "<%title%>"
+    Title: "Getting started"
+    Inherits-from: [
+        %memento.template.red
+    ]
 ]
+
+title: {getting-started}
+short-filename: "getting-started"
 
 Memento: [
 
-    Title: {<%title%>}
+    Title: {Getting started}
 
     Source: [
         .title: {ReAdABLE Source [(What is the ReAdABLE Human Format?)](http://readablehumanformat.com)}
-        .text: {[http://mymementos.space/<%full-domain-path%>/<%short-filename%>.red](https://github.com/lepinekong/mymementos/blob/master/<%full-domain-path%>/<%short-filename%>.red)
+        .text: {[http://mymementos.space/<%full-domain-path%>/getting-started.red](https://github.com/lepinekong/mymementos/blob/master/<%full-domain-path%>/getting-started.red)
         }
-        .Published-Url: http://mymementos.space/<%full-domain-path%>/<%short-filename%>
+        .Published-Url: http://mymementos.space/<%full-domain-path%>/getting-started
     ]      
 
     Step-0: [

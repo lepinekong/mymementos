@@ -1,16 +1,16 @@
 Red [
-    Title: "<%title%>"
+    Title: "Getting started"
 ]
 
 Memento: [
 
-    Title: {<%title%>}
+    Title: {Getting started}
 
     Source: [
         .title: {ReAdABLE Source [(What is the ReAdABLE Human Format?)](http://readablehumanformat.com)}
-        .text: {[http://mymementos.space/<%full-domain-path%>/<%short-filename%>.red](https://github.com/lepinekong/mymementos/blob/master/<%full-domain-path%>/<%short-filename%>.red)
+        .text: {[http://mymementos.space/webmarketing/mailchimp/getting-started.red](https://github.com/lepinekong/mymementos/blob/master/webmarketing/mailchimp/getting-started.red)
         }
-        .Published-Url: http://mymementos.space/<%full-domain-path%>/<%short-filename%>
+        .Published-Url: http://mymementos.space/webmarketing/mailchimp/getting-started
     ]      
 
     Step-0: [

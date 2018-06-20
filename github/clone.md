@@ -43,3 +43,9 @@ Your github repo should have been cloned within a sub-folder:
 ![https://i.imgur.com/o0aKwzB.png](https://i.imgur.com/o0aKwzB.png)
                     
 If wanted, you can move all files including .git folder to parent
+
+### Rename the cloned folder to .github
+
+Open parent folder with vscode to do so. If Material Icon Theme is installed, you should get this:
+![https://i.imgur.com/WlTYpQB.png](https://i.imgur.com/WlTYpQB.png)
+                    

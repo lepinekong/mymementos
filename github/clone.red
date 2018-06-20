@@ -48,6 +48,12 @@ Memento: [
         .text: {If wanted, you can move all files including .git folder to parent}
     ]
 
+    Step-3: [
+        .title: {Rename the cloned folder to .github}
+        .text: {Open parent folder with vscode to do so. If Material Icon Theme is installed, you should get this:}
+        .image: https://i.imgur.com/WlTYpQB.png
+    ]
+
 ]
 
 do read http://readablehumanformat.com/lib.red
