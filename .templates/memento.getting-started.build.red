@@ -3,4 +3,8 @@ Red [
 ]
 
 do read http://redlang.red/templating
-render %res/memento.getting-started.template.red
+
+title: {getting-started}
+short-filename: "getting-started"
+
+render %res/memento.template.red
