@@ -36,6 +36,12 @@ Memento: [
 
     ]
 
+    References: [
+        .links: [
+            {WPF 4.5 Programming Content Control Basics - LiveLessons}  https://www.youtube.com/watch?v=Re-NcKmOaPc
+        ]
+    ]
+
 ]
 
 do read http://readablehumanformat.com/lib.red

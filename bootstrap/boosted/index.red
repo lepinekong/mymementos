@@ -1,0 +1,1 @@
+http://boosted.orange.com/docs/4.1/components/card/
