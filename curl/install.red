@@ -1,19 +1,19 @@
 Red [
-    Title: "Getting started with Solidity"
+    Title: "Install"
     Bookmarks: [
-        https://enlight.nyc/ethereum-token
+        http://support.gnip.com/articles/curl-on-win7.html
     ]
 ]
 
 Memento: [
 
-    Title: {Getting started with Solidity}
+    Title: {Install}
 
     Source: [
         .title: {ReAdABLE Source [(What is the ReAdABLE Human Format?)](http://readablehumanformat.com)}
-        .text: {[http://mymementos.space/ethereum/solidity/getting-started.red.red](https://github.com/lepinekong/mymementos/blob/master/ethereum/solidity/getting-started.red.red)
+        .text: {[http://mymementos.space/curl/install.red](https://github.com/lepinekong/mymementos/blob/master/curl/install.red)
         }
-        .Published-Url: http://mymementos.space/ethereum/solidity/getting-started.red
+        .Published-Url: http://mymementos.space/curl/install
     ]      
 
     Step-0: [

@@ -1,5 +1,5 @@
 Red [
-    Title: "subject.template.build.red"
+    Title: "memento.build.red"
 ]
 
 do read http://redlang.red/templating

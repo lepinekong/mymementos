@@ -1,19 +1,17 @@
 Red [
-    Title: "Getting started with Solidity"
-    Bookmarks: [
-        https://enlight.nyc/ethereum-token
-    ]
+    Title: "Switch DNS"
+    TODO: yes
 ]
 
 Memento: [
 
-    Title: {Getting started with Solidity}
+    Title: {Switch DNS}
 
     Source: [
         .title: {ReAdABLE Source [(What is the ReAdABLE Human Format?)](http://readablehumanformat.com)}
-        .text: {[http://mymementos.space/ethereum/solidity/getting-started.red.red](https://github.com/lepinekong/mymementos/blob/master/ethereum/solidity/getting-started.red.red)
+        .text: {[http://mymementos.space/privacy/switch-dns.red](https://github.com/lepinekong/mymementos/blob/master/privacy/switch-dns.red)
         }
-        .Published-Url: http://mymementos.space/ethereum/solidity/getting-started.red
+        .Published-Url: http://mymementos.space/privacy/switch-dns
     ]      
 
     Step-0: [

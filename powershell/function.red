@@ -1,19 +1,16 @@
 Red [
-    Title: "Getting started with Solidity"
-    Bookmarks: [
-        https://enlight.nyc/ethereum-token
-    ]
+    Title: "function"
 ]
 
 Memento: [
 
-    Title: {Getting started with Solidity}
+    Title: {function}
 
     Source: [
         .title: {ReAdABLE Source [(What is the ReAdABLE Human Format?)](http://readablehumanformat.com)}
-        .text: {[http://mymementos.space/ethereum/solidity/getting-started.red.red](https://github.com/lepinekong/mymementos/blob/master/ethereum/solidity/getting-started.red.red)
+        .text: {[http://mymementos.space/powershell/function.red](https://github.com/lepinekong/mymementos/blob/master/powershell/function.red)
         }
-        .Published-Url: http://mymementos.space/ethereum/solidity/getting-started.red
+        .Published-Url: http://mymementos.space/powershell/function
     ]      
 
     Step-0: [

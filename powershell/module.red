@@ -1,19 +1,21 @@
 Red [
-    Title: "Getting started with Solidity"
-    Bookmarks: [
-        https://enlight.nyc/ethereum-token
-    ]
+    Title: "Powershell Module"
+    References: [
+        https://kevinmarquette.github.io/2017-05-27-Powershell-module-building-basics/
+        https://www.red-gate.com/simple-talk/dotnet/net-tools/further-down-the-rabbit-hole-powershell-modules-and-encapsulation/
+        https://gist.github.com/magnetikonline/2cdbfe45258c0cc3cf1530548baf30a7
+    ]    
 ]
 
 Memento: [
 
-    Title: {Getting started with Solidity}
+    Title: {Powershell Module}
 
     Source: [
         .title: {ReAdABLE Source [(What is the ReAdABLE Human Format?)](http://readablehumanformat.com)}
-        .text: {[http://mymementos.space/ethereum/solidity/getting-started.red.red](https://github.com/lepinekong/mymementos/blob/master/ethereum/solidity/getting-started.red.red)
+        .text: {[http://mymementos.space/powershell/module.red](https://github.com/lepinekong/mymementos/blob/master/powershell/module.red)
         }
-        .Published-Url: http://mymementos.space/ethereum/solidity/getting-started.red
+        .Published-Url: http://mymementos.space/powershell/module
     ]      
 
     Step-0: [

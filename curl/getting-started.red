@@ -1,19 +1,19 @@
 Red [
-    Title: "Getting started with Solidity"
+    Title: "getting-started"
     Bookmarks: [
-        https://enlight.nyc/ethereum-token
+        https://www.makeuseof.com/tag/get-curly-10-useful-things-can-curl/
     ]
 ]
 
 Memento: [
 
-    Title: {Getting started with Solidity}
+    Title: {getting-started}
 
     Source: [
         .title: {ReAdABLE Source [(What is the ReAdABLE Human Format?)](http://readablehumanformat.com)}
-        .text: {[http://mymementos.space/ethereum/solidity/getting-started.red.red](https://github.com/lepinekong/mymementos/blob/master/ethereum/solidity/getting-started.red.red)
+        .text: {[http://mymementos.space/curl/getting-started.red](https://github.com/lepinekong/mymementos/blob/master/curl/getting-started.red)
         }
-        .Published-Url: http://mymementos.space/ethereum/solidity/getting-started.red
+        .Published-Url: http://mymementos.space/curl/getting-started
     ]      
 
     Step-0: [
