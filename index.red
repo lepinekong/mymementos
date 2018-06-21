@@ -44,7 +44,15 @@ Summary: [
         .links: [
             {Gitlab} %./gitlab/
         ]
-    ]    
+    ]  
+
+    Graphics: [
+        .title: {Graphics}
+
+        .links: [
+            {Paintbrush} %./graphics/paintbrush
+        ]
+    ]         
 
     VSCode: [
         .title: {Visual Studio Code}
