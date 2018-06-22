@@ -42,7 +42,7 @@ You should get something like this:
 ![https://i.imgur.com/1cgecu9.png](https://i.imgur.com/1cgecu9.png)
                     
 
-### Console.log
+### Basic Console log
 
 In the new quokkajs file, type some code with
 >console.log
@@ -52,6 +52,9 @@ The result of console.log should show up immediately:
                     
 You can do the same for an existing js file:
 ![https://i.imgur.com/EfKEnU1.png](https://i.imgur.com/EfKEnU1.png)
+                    
+Note that for single variable you can just type its name:
+![https://i.imgur.com/zdnuwY4.png](https://i.imgur.com/zdnuwY4.png)
                     
 
 >
