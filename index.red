@@ -22,29 +22,22 @@ Summary: [
         ]
     ]      
 
-    Github: [
-        .title: {Git}
-
-        .links: [
-            {Git} %./git/
-        ]
-    ]    
-
-    Github: [
+    Git: [
         .title: {Github}
 
         .links: [
+            {Git} %./git/
             {Github} %./github/
+            {Gitlab} %./gitlab/
         ]
     ]
 
-    Gitlab: [
-        .title: {Gitlab}
-
+    Javascript: [
+        .title: {Javascript}
         .links: [
-            {Gitlab} %./gitlab/
+            {Quokkajs} %/javascript/tools/quokkajs
         ]
-    ]  
+    ]
 
     Graphics: [
         .title: {Graphics}
