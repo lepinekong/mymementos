@@ -51,23 +51,9 @@ Memento: [
         .text: {The result of console.log should show up immediately:}
         .image: https://i.imgur.com/GvYm0xQ.png
         .text: {You can do the same for an existing js file:}
-        .image: https://i.imgur.com/EfKEnU1.png
+        .image: https://i.imgur.com/Rc9ypYo.png
         .text: {Note that for single variable you can just type its name:}
         .image: https://i.imgur.com/zdnuwY4.png
-    ]
-
-    Step-4: [
-        .title: {}
-        .text: {}
-        .quote: {}
-        .image: 
-    ]
-
-    References: [
-        .title: {References}
-        .links: [
-            {} https://
-        ]
     ]
 
 ]

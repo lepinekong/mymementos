@@ -51,16 +51,8 @@ The result of console.log should show up immediately:
 ![https://i.imgur.com/GvYm0xQ.png](https://i.imgur.com/GvYm0xQ.png)
                     
 You can do the same for an existing js file:
-![https://i.imgur.com/EfKEnU1.png](https://i.imgur.com/EfKEnU1.png)
+![https://i.imgur.com/Rc9ypYo.png](https://i.imgur.com/Rc9ypYo.png)
                     
 Note that for single variable you can just type its name:
 ![https://i.imgur.com/zdnuwY4.png](https://i.imgur.com/zdnuwY4.png)
                     
-
->
-
-
-### References
-
-- [](https://)
-                        
