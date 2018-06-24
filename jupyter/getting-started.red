@@ -1,7 +1,9 @@
 Red [
     Title: "getting-started"
     Beginner: [
+        https://pythonhow.com/setting-up-ipython/
         https://www.fullstackpython.com/jupyter-notebook.html
+        https://unidata.github.io/online-python-training/notebook.html
     ]
     Tips: [
         https://stackoverflow.com/questions/21176731/automatically-run-matplotlib-inline-in-ipython-notebook
@@ -89,10 +91,31 @@ Memento: [
         ]
     ]
 
+    Create-in-another-folder: [
+        .title: {Create Notebook in another folder}
+        .text: {To create a Notebook in another folder, open a command prompt within that folder and type:}
+        .quote: {jupyter notebook}
+        .text: {If it doesn't work (under Windows 10), try:}
+        .quote: {python -m notebook}
+        .image: https://i.imgur.com/eNri2PH.png
+        .text: {You can check folder}
+        .image: https://i.imgur.com/3OSF7I1.png
+        .links: [
+            https://stackoverflow.com/questions/41034866/running-jupyter-via-command-line-on-windows
+        ]
+    ]
+
     References: [
         .title: {References}
         .links: [
             {Jupyter Notebook for Beginners: A Tutorial} https://www.dataquest.io/blog/jupyter-notebook-tutorial/
+        ]
+    ]
+
+    Next: [
+        .title: {Learn Python on Jupyter}
+        Links: [
+            {jupyter-python} %/.jupyter-python
         ]
     ]
 
