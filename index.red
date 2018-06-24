@@ -6,53 +6,38 @@ Summary: [
 
     Title: {Index of MyMementos.Space}
 
-    Bootstrap: [
-        .title: {Bootstrap}
+    Programming-languages: [
+        .title: {Programming Languages}
+        .links: [
+            {Csharp} %./csharp/
+            {Python} %./python/
+        ]
+    ]
 
+    Programming-frameworks: [
+        .title: {Programming Frameworks}
         .links: [
             {Redlang Bootstrap} %./redlang/bootstrap/
         ]
-    ]   
+    ]    
 
-    Csharp: [
-        .title: {Csharp}
-
+    Programming-tools: [
+        .title: {Programming Tools}
         .links: [
-            {Csharp} %./csharp/
-        ]
-    ]      
-
-    Git: [
-        .title: {Github}
-
-        .links: [
+            {Visual Studio Code} %./vscode/
             {Git} %./git/
             {Github} %./github/
-            {Gitlab} %./gitlab/
+            {Gitlab} %./gitlab/            
+            {Quokkajs} %/javascript/tools/quokkajs            
         ]
-    ]
-
-    Javascript: [
-        .title: {Javascript}
-        .links: [
-            {Quokkajs} %/javascript/tools/quokkajs
-        ]
-    ]
+    ] 
 
     Graphics: [
         .title: {Graphics}
-
         .links: [
             {Paintbrush} %./graphics/paintbrush
         ]
     ]         
-
-    VSCode: [
-        .title: {Visual Studio Code}
-        .links: [
-            {Visual Studio Code} %./vscode/
-        ]
-    ]
 
 ]
 
