@@ -25,6 +25,7 @@ Summary: [
         .title: {Programming Tools}
         .links: [
             {Visual Studio Code} %./vscode/
+            {Jupyter} %./jupyter/
             {Git} %./git/
             {Github} %./github/
             {Gitlab} %./gitlab/            
