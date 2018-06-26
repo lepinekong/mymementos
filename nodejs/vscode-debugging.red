@@ -1,31 +1,20 @@
 Red [
-    Title: "<%title%>"
+    Title: "nodejs vscode debugging"
+    Bookmarks: [
+        https://www.youtube.com/watch?v=hfpkMyvSOp4
+    ]
 ]
 
 Memento: [
 
-    Title: {<%title%>}
+    Title: {nodejs vscode debugging}
 
     Source: [
         .title: {ReAdABLE Source [(What is the ReAdABLE Human Format?)](http://readablehumanformat.com)}
-        .text: {[http://mymementos.space/<%full-domain-path%>/<%short-filename%>.red](https://github.com/lepinekong/mymementos/blob/master/<%full-domain-path%>/<%short-filename%>.red)
+        .text: {[http://mymementos.space/nodejs/vscode-debugging.red](https://github.com/lepinekong/mymementos/blob/master/nodejs/vscode-debugging.red)
         }
-        .Published-Url: http://mymementos.space/<%full-domain-path%>/<%short-filename%>
-    ]  
-
-    Demo: [
-
-        .title: {Demo}
-        .image: 
-        .links: [
-            {View demo} https://github.com/lepinekong/mycodesnippets/blob/master/<%full-domain-path%>/src/<%src-sub-folder%>/<%short-filename%>.html
-            {Copy demo source} https://raw.githubusercontent.com/lepinekong/mycodesnippets/master/<%full-domain-path%>/<%sub-folder%>/src/<%src-sub-folder%>/<%short-filename%>.html
-        ]        
-        .code/<%language%>: {
-
-        }
-
-    ]        
+        .Published-Url: http://mymementos.space/nodejs/vscode-debugging
+    ]      
 
     Step-0: [
         .title: {Pre-Requisites}

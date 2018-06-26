@@ -1,16 +1,23 @@
 Red [
-    Title: "<%title%>"
+    Title: "windows protocol handler"
+    Bookmarks: [
+        https://gist.github.com/madaboutcode/9c0c1fa7adc251a37d49
+    ]    
+]
+
+Red [
+    Title: "Windows Protocol Handler"
 ]
 
 Memento: [
 
-    Title: {<%title%>}
+    Title: {Windows Protocol Handler}
 
     Source: [
         .title: {ReAdABLE Source [(What is the ReAdABLE Human Format?)](http://readablehumanformat.com)}
-        .text: {[http://mymementos.space/<%full-domain-path%>/<%short-filename%>.red](https://github.com/lepinekong/mymementos/blob/master/<%full-domain-path%>/<%short-filename%>.red)
+        .text: {[http://mymementos.space/windows/protocol-handler.red](https://github.com/lepinekong/mymementos/blob/master/windows/protocol-handler.red)
         }
-        .Published-Url: http://mymementos.space/<%full-domain-path%>/<%short-filename%>
+        .Published-Url: http://mymementos.space/windows/protocol-handler
     ]  
 
     Demo: [
@@ -18,10 +25,10 @@ Memento: [
         .title: {Demo}
         .image: 
         .links: [
-            {View demo} https://github.com/lepinekong/mycodesnippets/blob/master/<%full-domain-path%>/src/<%src-sub-folder%>/<%short-filename%>.html
-            {Copy demo source} https://raw.githubusercontent.com/lepinekong/mycodesnippets/master/<%full-domain-path%>/<%sub-folder%>/src/<%src-sub-folder%>/<%short-filename%>.html
+            {View demo} https://github.com/lepinekong/mycodesnippets/blob/master/windows/src/protocol-handler/protocol-handler.html
+            {Copy demo source} https://raw.githubusercontent.com/lepinekong/mycodesnippets/master/windows/src/protocol-handler/protocol-handler.html
         ]        
-        .code/<%language%>: {
+        .code/html: {
 
         }
 

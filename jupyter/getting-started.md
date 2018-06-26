@@ -13,9 +13,14 @@ Jupyter Notebook integrates code and its output into a single document that comb
 
 The Jupyter project is the successor to the earlier IPython Notebook, which was first published as a prototype in 2010. 
 
-### Install Anaconda
+### Install Anaconda or Miniconda
 
-The easiest way for a beginner to get started with Jupyter Notebooks is by installing Anaconda. Anaconda is the most widely used Python distribution for data science and comes pre-loaded with all the most popular libraries and tools. 
+The easiest way for a beginner to get started with Jupyter Notebooks is by installing Anaconda or Miniconda. 
+Anaconda is the most widely used Python distribution for data science and comes pre-loaded with all the most popular libraries and tools. 
+If your PC has low disk space, rather install Miniconda.
+
+- [Installing Python 3 and Jupyter - codecademy.com](https://www.codecademy.com/articles/install-python3)
+                        
 
 ### Disable Jupyter password (optional)
 

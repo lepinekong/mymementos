@@ -29,8 +29,14 @@ Memento: [
     ] 
 
     Anaconda: [
-        .title: {Install Anaconda}
-        .text: {The easiest way for a beginner to get started with Jupyter Notebooks is by installing Anaconda. Anaconda is the most widely used Python distribution for data science and comes pre-loaded with all the most popular libraries and tools. }
+        .title: {Install Anaconda or Miniconda}
+        .text: {The easiest way for a beginner to get started with Jupyter Notebooks is by installing Anaconda or Miniconda. 
+        Anaconda is the most widely used Python distribution for data science and comes pre-loaded with all the most popular libraries and tools. 
+        If your PC has low disk space, rather install Miniconda.
+        }
+        .links: [
+            {Installing Python 3 and Jupyter - codecademy.com} https://www.codecademy.com/articles/install-python3
+        ]
     ]  
 
     Disable-password: [
