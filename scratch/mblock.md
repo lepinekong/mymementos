@@ -4,13 +4,13 @@
 
 ### ReAdABLE Source [(What is the ReAdABLE Human Format?)](http://readablehumanformat.com)
 
-[http://mymementos.space/mblock/getting-started.red.red](https://github.com/lepinekong/mymementos/blob/master/mblock/getting-started.red.red)
+[http://mymementos.space/scratch/getting-started.red.red](https://github.com/lepinekong/mymementos/blob/master/scratch/mblock.red)
 
 
 ### Pre-Requisites
 
 Install mblock from this page:
-- [http://www.mblock.cc/software/mblock/mblock5/](http://www.mblock.cc/software/mblock/mblock5/)
+- [http://www.mblock.cc/software/scratch/scratch5/](http://www.mblock.cc/software/scratch/scratch5/)
                         
 
 ### Getting started

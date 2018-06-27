@@ -1,16 +1,16 @@
 Red [
-    Title: "<%title%>"
+    Title: "getting-started"
 ]
 
 Memento: [
 
-    Title: {<%title%>}
+    Title: {bitcore: getting started}
 
     Source: [
         .title: {ReAdABLE Source [(What is the ReAdABLE Human Format?)](http://readablehumanformat.com)}
-        .text: {[http://mymementos.space/<%full-domain-path%>/<%short-filename%>.red](https://github.com/lepinekong/mymementos/blob/master/<%full-domain-path%>/<%short-filename%>.red)
+        .text: {[http://mymementos.space/blockchain/bitcore/getting-started.red](https://github.com/lepinekong/mymementos/blob/master/blockchain/bitcore/getting-started.red)
         }
-        .Published-Url: http://mymementos.space/<%full-domain-path%>/<%short-filename%>
+        .Published-Url: http://mymementos.space/blockchain/bitcore/getting-started
     ]  
 
     Demo: [
@@ -18,10 +18,10 @@ Memento: [
         .title: {Demo}
         .image: 
         .links: [
-            {View demo} https://github.com/lepinekong/mycodesnippets/blob/master/<%full-domain-path%>/src/<%short-filename%>.html
-            {Copy demo source} https://raw.githubusercontent.com/lepinekong/mycodesnippets/master/<%full-domain-path%>/src/<%short-filename%>.html
+            {View demo} https://github.com/lepinekong/mycodesnippets/blob/master/blockchain/src/blockchain/bitcore/getting-started.html
+            {Copy demo source} https://raw.githubusercontent.com/lepinekong/mycodesnippets/master/blockchain/src/bitcore/getting-started.html
         ]        
-        .code/<%language%>: {
+        .code/javascript: {
 
         }
 

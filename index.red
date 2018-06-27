@@ -38,7 +38,14 @@ Summary: [
         .links: [
             {Paintbrush} %./graphics/paintbrush
         ]
-    ]         
+    ] 
+
+    Kids: [
+        .title: {Kids}
+        .links: [
+            {mBlock (Scratch)} %./scratch/mblock
+        ]
+    ]               
 
 ]
 

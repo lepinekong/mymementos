@@ -18,6 +18,8 @@
 
 - [Visual Studio Code](./vscode/)
                         
+- [Jupyter](./jupyter/)
+                        
 - [Git](./git/)
                         
 - [Github](./github/)
@@ -30,4 +32,9 @@
 ### Graphics
 
 - [Paintbrush](./graphics/paintbrush)
+                        
+
+### Kids
+
+- [mBlock (Scratch)](./scratch/mblock)
                         

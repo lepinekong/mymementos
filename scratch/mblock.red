@@ -8,16 +8,27 @@ Memento: [
 
     Source: [
         .title: {ReAdABLE Source [(What is the ReAdABLE Human Format?)](http://readablehumanformat.com)}
-        .text: {[http://mymementos.space/mblock/getting-started.red.red](https://github.com/lepinekong/mymementos/blob/master/mblock/getting-started.red.red)
+        .text: {[http://mymementos.space/scratch/getting-started.red.red](https://github.com/lepinekong/mymementos/blob/master/scratch/mblock.red)
         }
-        .Published-Url: http://mymementos.space/mblock/getting-started.red
-    ]      
+        .Published-Url: http://mymementos.space/scratch/mblock.red
+    ]     
+
+    Demo: [
+
+        .title: {Demo}
+        .image: 
+        .links: [
+            {View demo} https://github.com/lepinekong/mycodesnippets/blob/master/scratch/src/mblock.mblock
+            {Copy demo source} https://raw.githubusercontent.com/lepinekong/mycodesnippets/master/scratch/src/mblock.mblock
+        ]        
+
+    ]        
 
     Step-0: [
         .title: {Pre-Requisites}
         .text: {Install mblock from this page:}
         .links: [
-            http://www.mblock.cc/software/mblock/mblock5/
+            http://www.mblock.cc/software/scratch/scratch5/
         ]
     ]    
 
