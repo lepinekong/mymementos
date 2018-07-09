@@ -13,3 +13,8 @@
 
 - [Multiple cursors editing](./multiple-cursors)
                         
+
+### Version Control
+
+- [Git: Revert Commit](./revert-commit)
+                        

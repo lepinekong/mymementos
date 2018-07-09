@@ -26,7 +26,14 @@ Article: [
         .links: [
             {Multiple cursors editing} %./multiple-cursors
         ]    
-    ]    
+    ]  
+
+    Version-Control: [
+        .title: {Version Control}
+        .links: [
+            {Git: Revert Commit} %./revert-commit
+        ]    
+    ]        
 
 ]
         
