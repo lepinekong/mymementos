@@ -31,6 +31,7 @@ Article: [
     Version-Control: [
         .title: {Version Control}
         .links: [
+            {Git: Change Git Password} %./git-password
             {Git: Revert Commit} %./revert-commit
         ]    
     ]        

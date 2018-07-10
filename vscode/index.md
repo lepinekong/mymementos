@@ -16,5 +16,7 @@
 
 ### Version Control
 
+- [Git: Change Git Password](./git-password)
+                        
 - [Git: Revert Commit](./revert-commit)
                         
