@@ -17,7 +17,7 @@ Article: [
         .title: {Basics}
         .links: [
             {Commit} %./commit
-            {Memorize password} %./memorize
+            {Memorize password} %./memorize-password
             {Archive} %./archive
         ]    
     ]
