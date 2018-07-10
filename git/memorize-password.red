@@ -1,5 +1,5 @@
 Red [
-    Title: "memorize.password.red"
+    Title: "memorize-password.red"
 ]
 
 Memento: [
