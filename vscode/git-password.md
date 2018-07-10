@@ -24,3 +24,4 @@ You'll be request to select origin:
 You can then enter your new password:
 ![https://i.imgur.com/MFuBzXn.png](https://i.imgur.com/MFuBzXn.png)
                     
+You must re-enter your username and password a second time afterwards!

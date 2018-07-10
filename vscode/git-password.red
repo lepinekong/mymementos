@@ -27,8 +27,8 @@ Memento: [
         .image: https://i.imgur.com/Tc8ckTO.png
         .text: {You can then enter your new password:}
         .image: https://i.imgur.com/MFuBzXn.png
-        .text: {You must re-enter your username:}
-        
+        .text: {You must re-enter your username and password a second time afterwards!}
+
     ]
 ]
 
