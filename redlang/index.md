@@ -9,7 +9,8 @@
 
 ### Debugging
 
-How to debug red
+- [How to debug red](./debugging)
+                        
 
 ### Compiling
 

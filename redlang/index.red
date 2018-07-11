@@ -15,7 +15,10 @@ Memento: [
 
     Step-0: [
         .title: {Debugging}
-        .text: {How to debug red}
+        .links: [
+            {How to debug red} %./debugging
+        ]
+        
     ]    
 
     Step-1: [
