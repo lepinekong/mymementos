@@ -2,6 +2,8 @@ Red [
     Title: "tasks.red"
 ]
 
+Memento: [
+
     Source: [
         .title: {ReAdABLE Source [(What is the ReAdABLE Human Format?)](http://readablehumanformat.com)}
         .text: {[http://mymementos.space/vscode/tasks.red](https://github.com/lepinekong/mymementos/blob/master/vscode/tasks.red)
@@ -69,6 +71,8 @@ Red [
         ]
     ]
     
+]
+
 do https://readable.red
 
 ;do read http://readablehumanformat.com/lib.red
