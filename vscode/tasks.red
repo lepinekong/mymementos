@@ -1,10 +1,6 @@
 Red [
-    Title: "C:\rebol\red.exe --cli "c:\rebol\.system.user\.data\.activities\myMementos\.github\.templates\getting-started.build.red""
+    Title: "tasks.red"
 ]
-
-Memento: [
-
-    Title: {C:\rebol\red.exe --cli "c:\rebol\.system.user\.data\.activities\myMementos\.github\.templates\getting-started.build.red"}
 
     Source: [
         .title: {ReAdABLE Source [(What is the ReAdABLE Human Format?)](http://readablehumanformat.com)}
@@ -12,7 +8,6 @@ Memento: [
         }
         .Published-Url: http://mymementos.space/vscode/tasks
     ]  
-
 
     Step-1: [
         .title: {Create tasks.json}
@@ -73,10 +68,8 @@ Memento: [
             {Setting up Visual Studio Code Tasks - tomsitpro.com} http://www.tomsitpro.com/articles/setting-up-visual-studio-code-tasks,1-3514.html
         ]
     ]
-
-]
-
+    
 do https://readable.red
 
 ;do read http://readablehumanformat.com/lib.red
-markdown-gen
+markdown-gen    
