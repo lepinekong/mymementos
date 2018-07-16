@@ -1,6 +1,7 @@
 Red [
     Title: "Powershell Module"
     References: [
+        https://www.darkoperator.com/blog/2013/2/19/powershell-basics-extending-the-shell-with-modules-and-snapi.html
         https://kevinmarquette.github.io/2017-05-27-Powershell-module-building-basics/
         https://www.red-gate.com/simple-talk/dotnet/net-tools/further-down-the-rabbit-hole-powershell-modules-and-encapsulation/
         https://gist.github.com/magnetikonline/2cdbfe45258c0cc3cf1530548baf30a7

@@ -1,5 +1,9 @@
 Red [
     Title: "tasks.red"
+    .bookmarks: [
+        https://code.visualstudio.com/docs/editor/tasks
+        https://code.visualstudio.com/docs/editor/variables-reference
+    ]
 ]
 
 Memento: [
