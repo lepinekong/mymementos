@@ -18,12 +18,11 @@ Memento: [
         .title: {Demo}
         .image: https://i.imgur.com/nJDcBNf.jpg
         .links: [
-            {View demo} https://github.com/lepinekong/mycodesnippets/blob/master/mobirise/src/video-gallery.html
-            {Copy demo source} https://raw.githubusercontent.com/lepinekong/mycodesnippets/master/mobirise/src/video-gallery.html
-        ]        
-        .code/html: {
-
-        }
+            {View demo} https://github.com/lepinekong/mycodesnippets/blob/master/mobirise/src/html/video-gallery.html
+            {Copy demo source} https://raw.githubusercontent.com/lepinekong/mycodesnippets/master/mobirise/src/html/video-gallery.html
+            {Download demo} https://github.com/lepinekong/mycodesnippets/blob/master/mobirise/src/video-gallery.zip
+        
+        ]
 
     ]        
 

@@ -11,19 +11,12 @@
 
 ![https://i.imgur.com/nJDcBNf.jpg](https://i.imgur.com/nJDcBNf.jpg)
                     
-- [View demo](https://github.com/lepinekong/mycodesnippets/blob/master/mobirise/src/video-gallery.html)
+- [View demo](https://github.com/lepinekong/mycodesnippets/blob/master/mobirise/src/html/video-gallery.html)
                         
-- [Copy demo source](https://raw.githubusercontent.com/lepinekong/mycodesnippets/master/mobirise/src/video-gallery.html)
+- [Copy demo source](https://raw.githubusercontent.com/lepinekong/mycodesnippets/master/mobirise/src/html/video-gallery.html)
                         
-
-
-```html
-
-
-        
-```
-
-
+- [Download demo](https://github.com/lepinekong/mycodesnippets/blob/master/mobirise/src/video-gallery.zip)
+                        
 
 ### Pre-Requisites
 
