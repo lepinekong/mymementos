@@ -23,6 +23,6 @@ Article: [
 
 ]  
 
-do read http://readablehumanformat.com/lib.red
+do https://readable.red
 markdown-gen
 

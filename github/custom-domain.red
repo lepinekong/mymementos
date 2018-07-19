@@ -87,9 +87,12 @@ Tutorial: [
     ]
 ]
 
-do read http://readablehumanformat.com/lib.red
+; do read http://readablehumanformat.com/lib.red
+; markdown-gen
+
+do https://readable.red
 markdown-gen
 
 ; comment these 2 lines if needed
-.copy-file %github.custom.domain.red ; copy file to first encountered .github directory upstream
-.copy-file %github.custom.domain.md ; copy file to first encountered .github directory upstream
+; .copy-file %github.custom.domain.red ; copy file to first encountered .github directory upstream
+; .copy-file %github.custom.domain.md ; copy file to first encountered .github directory upstream
