@@ -6,6 +6,13 @@ Summary: [
 
     Title: {Index of MyMementos.Space}
 
+    OS: [
+        .title: {OS}
+        .links: [
+            {Windows} %./windows
+        ]
+    ]     
+
     Programming-languages: [
         .title: {Programming Languages}
         .links: [
