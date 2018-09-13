@@ -1,19 +1,16 @@
 Red [
-    Title: "cortana"
-    .links: [
-        https://www.laptopmag.com/articles/change-cortanas-voice-windows-10
-    ]
+    Title: "get-source"
 ]
 
 Memento: [
 
-    Title: {cortana}
+    Title: {get-source}
 
     Source: [
         .title: {ReAdABLE Source [(What is the ReAdABLE Human Format?)](http://readablehumanformat.com)}
-        .text: {[http://mymementos.space/windows/cortana.red](https://github.com/lepinekong/mymementos/blob/master/windows/cortana.red)
+        .text: {[http://mymementos.space/chromedevtools/get-source.red](https://github.com/lepinekong/mymementos/blob/master/chromedevtools/get-source.red)
         }
-        .Published-Url: http://mymementos.space/windows/cortana
+        .Published-Url: http://mymementos.space/chromedevtools/get-source
     ]  
 
     Demo: [
@@ -21,10 +18,10 @@ Memento: [
         .title: {Demo}
         .image: 
         .links: [
-            {View demo} https://github.com/lepinekong/mycodesnippets/blob/master/windows/src/cortana.html
-            {Copy demo source} https://raw.githubusercontent.com/lepinekong/mycodesnippets/master/windows/src/cortana.html
+            {View demo} https://github.com/lepinekong/mycodesnippets/blob/master/chromedevtools/src/get-source.html
+            {Copy demo source} https://raw.githubusercontent.com/lepinekong/mycodesnippets/master/chromedevtools/src/get-source.html
         ]        
-        .code/registry: {
+        .code/html: {
 
         }
 
@@ -32,16 +29,14 @@ Memento: [
 
     Step-0: [
         .title: {Pre-Requisites}
-        .text: {}
+        .text: {Chrome is installed}
     ]    
 
     Step-1: [
-        .title: {}
-        .text: {}
-        .image: 
-        .links: [
-            {} https://
-        ]
+        .title: {Activate Developer Tools}
+        .text: {Click on Chrome menu:}
+        .quote: {More Tools -> Developer Tools}
+        .image: https://i.imgur.com/rkhRI2H.png
     ]
 
     Step-2: [
